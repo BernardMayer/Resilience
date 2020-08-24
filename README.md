@@ -10,8 +10,6 @@ Pourquoi ?
 Car je n'aime pas être parmi les oiseaux du perchoir du dessous.  
 Et pas non plus au dessus...  
 
-
-
 |Pourquoi ?|Qui suis-je ?|
 |:--------:|------------:|
 | ![ArbreAOiseaux.jpg](img/ArbreAOiseaux.jpg)|![moi](img/bourricot.jpg)|
