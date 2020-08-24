@@ -1,0 +1,11 @@
+= Mager
+Bernard Mayer
+v1.0, 2020-08-24
+:toc:
+:imagesdir: ../img
+
+// ---------------------------------------------------
+== Quoi qu'il y a dedans ?
+----
+Ne pas avoir faim ; chaque jour...
+----
