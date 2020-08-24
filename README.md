@@ -1,2 +1,19 @@
 # Resilience
-Mon petit memo
+Mon petit memo sur divers sujets : 
+- Faire
+- Abri
+- Eau
+- Manger
+- Agro
+
+Pourquoi ?
+Car je n'aime pas être parmi les oiseaux du perchoir du dessous.
+Et pas non plus au dessus...
+![ArbreAOiseaux.jpg](img/ArbreAOiseaux.jpg)
+
+
+
+https://www.markdownguide.org/cheat-sheet
+
+[title](https://www.example.com)
+![alt text](image.jpg)
