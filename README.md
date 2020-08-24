@@ -6,11 +6,9 @@ Mon petit memo sur divers sujets :
 - [Manger](./Manger/)
 - [Agro](./Agro/)
 
-Pourquoi ?
-
-Car je n'aime pas être parmi les oiseaux du perchoir du dessous.
-
-Et pas non plus au dessus...
+Pourquoi ?  
+Car je n'aime pas être parmi les oiseaux du perchoir du dessous.  
+Et pas non plus au dessus...  
 
 ![ArbreAOiseaux.jpg](img/ArbreAOiseaux.jpg)
 
