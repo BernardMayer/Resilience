@@ -1,32 +1,34 @@
 = Resilience
 Bernard Mayer
 v1.0, 2020-08-25
-:toc:
-:imagesdir: ../img
+:toc-title: ToC
+:toc: preamble
+//:imagesdir: ../img
 
 :ldquo: &laquo;
 :rdquo: &raquo;
 
+:description: Je ne sait pas encore ce \
+    que je vais écrire ici...
+    
 // ---------------------------------------------------
 ----
 Ne dépendre de personne... +
-Ni dieu ni maître ? Peut-être...
+Ni dieu ni maître ? Peut-être... Vous en pensez ce que vous voulez, vous êtes (peut-être) libre
 ----
 
 == Quoi qu'il y a dedans ?
 
-* link:./Faire[Faire]
 * link:./Abri[Abri]
-* link:./Eau[Eau]
-* link:./Manger[Manger]
 * link:./Agro[Agro]
+* link:./Eau[Eau]
+* link:./Faire[Faire]
+* link:./Manger[Manger]
 
-Pourquoi ?  
-Car je n'aime pas être parmi les oiseaux du perchoir du dessous.  
-Et pas non plus au dessus...  
+//image:img/ArbreAOiseaux.jpg[ArbreAOiseaux.jpg] image:./img/bourricot.jpg[moi]
 
+|===
+|Pourquoi ?|Qui suis-je ?
 
-
-|Pourquoi ?|Qui suis-je ?|
-|:--------:|------------:|
-| ![ArbreAOiseaux.jpg](img/ArbreAOiseaux.jpg)|![moi](img/bourricot.jpg)|
+| Car je n'aime pas être parmi les oiseaux du perchoir du dessousfootnote:[Et pas non plus au dessus...]. + 
+image:./img/ArbreAOiseaux.jpg[ArbreAOiseaux.jpg]|image:./img/bourricot.jpg[moi]
