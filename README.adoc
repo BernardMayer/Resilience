@@ -1,11 +1,32 @@
-= Faire
+= Resilience
 Bernard Mayer
-v1.0, 2020-08-24
+v1.0, 2020-08-25
 :toc:
 :imagesdir: ../img
 
+:ldquo: &laquo;
+:rdquo: &raquo;
+
 // ---------------------------------------------------
+----
+Ne dépendre de personne... +
+Ni dieu ni maître ? Peut-être...
+----
+
 == Quoi qu'il y a dedans ?
-----
-Ce que l'on fait avec ses 2 mains...
-----
+
+* link:./Faire[Faire]
+* link:./Abri[Abri]
+* link:./Eau[Eau]
+* link:./Manger[Manger]
+* link:./Agro[Agro]
+
+Pourquoi ?  
+Car je n'aime pas être parmi les oiseaux du perchoir du dessous.  
+Et pas non plus au dessus...  
+
+
+
+|Pourquoi ?|Qui suis-je ?|
+|:--------:|------------:|
+| ![ArbreAOiseaux.jpg](img/ArbreAOiseaux.jpg)|![moi](img/bourricot.jpg)|
