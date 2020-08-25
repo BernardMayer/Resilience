@@ -1,11 +1,23 @@
 = Manger
 Bernard Mayer
 v1.0, 2020-08-24
-:toc:
+:toc-title: ToC Manger
+:toc: preamble
 :imagesdir: ../img
 
+:ldquo: &laquo;
+:rdquo: &raquo;
+
+
 // ---------------------------------------------------
-== Quoi qu'il y a dedans ?
 ----
 Ne pas avoir faim ; chaque jour...
 ----
+
+== Quoi qu'il y a dedans ?
+
+{ldquo} _Il faut manger pour vivre, et non vivre pour manger_ {rdquo} disait un certain Socrate... +
+Toujours est-il qu'il faille bien disposer d'aliments. Pour en disposer, voir la partie link:../Agro[Agro].
+
+Ici, on va plutôt s'intéresser aux différentes méthode de conservation des aliments, plus qu'à leur préparation. 
+Mais il arrive que ces 2 sujets soient liés, typiquement les conserves qui nécessitent une stérilisation.
