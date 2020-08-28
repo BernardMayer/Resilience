@@ -1,0 +1,21 @@
+= Résilience -> Manger -> pain
+Bernard Mayer
+v1.1, 2020-08-28
+
+:description: Je ne sait pas encore ce \
+    que je vais écrire ici...
+
+== Ce qui a trait au pain
+
+=== Recette n°1
+link:./pain-001.adoc[recette pain à la cocotte n°1]
+
+=== Recette n°2
+link:Pain_002-1CocotteUstensiles.pdf[Pain_002-1CocotteUstensiles.pdf] +
+link:Pain_002-2CocotteLevain.pdf[Pain_002-2CocotteLevain.pdf] +
+link:Pain_002-3CocotteEtapesFabrication.pdf[Pain_002-3CocotteEtapesFabrication.pdf]
+
+=== Document savant sur la panification
+link:./LaPanificationAuLevainNaturel_PhilippeRoussel.epub[Un ePub sur la panification]
+
+
