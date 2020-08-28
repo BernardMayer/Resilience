@@ -21,3 +21,11 @@ Toujours est-il qu'il faille bien disposer d'aliments. Pour en disposer, voir la
 
 Ici, on va plutôt s'intéresser aux différentes méthode de conservation des aliments, plus qu'à leur préparation. 
 Mais il arrive que ces 2 sujets soient liés, typiquement les conserves qui nécessitent une stérilisation.
+
+== Le pain
+Un dossier lui est consacré. +
+link:./pain[./pain]
+
+== Conservation
+Pas grand chose pour l'instant, juste une compilation de recettes de conserves, sous divers format (reste à faire en asciiDoc). +
+link:./RecettesLeParfait-DRAFT.pdf[./RecettesLeParfait-DRAFT.pdf]
