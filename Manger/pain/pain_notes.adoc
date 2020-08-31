@@ -1,0 +1,35 @@
+= Notes à propos du pain: Et son sous-titre
+Bernard Mayer
+v1.0, 2020-08-31: First draft
+:source-highlighter: coderay
+:sectnums:
+:toc: preamble
+:toclevels: 4
+:toc-title: ToC
+// Permet que la ToC soit numerotee
+:numbered:
+:imagesdir: ./img
+// :imagedir: ./MOS_Modelisation_UserCode-img
+
+:ldquo: &laquo;&nbsp;
+:rdquo: &nbsp;&raquo;
+
+:keywords: Resilience Manger pain
+:description: Je ne sait pas encore ce \
+    que je vais écrire ici...
+    
+----
+Préambule avant ToC
+----
+
+
+// ---------------------------------------------------
+
+== Vidéo pain au levain, blés anciens, Graines de Noé, Bernard Ronot
+https://www.facebook.com/groups/562905920806655/?post_id=1018484611915448
+
+
+== 2eme chapitre
+
+lfgjfdjgfd ojgfjdf jdgj
+
