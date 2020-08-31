@@ -1,0 +1,31 @@
+= Notes à propos de l'agro: Et son sous-titre
+Bernard Mayer
+v1.0, 2020-08-31: First draft
+:source-highlighter: coderay
+:sectnums:
+:toc: preamble
+:toclevels: 4
+:toc-title: ToC
+// Permet que la ToC soit numerotee
+:numbered:
+:imagesdir: ./img
+// :imagedir: ./MOS_Modelisation_UserCode-img
+
+:ldquo: &laquo;&nbsp;
+:rdquo: &nbsp;&raquo;
+
+:keywords: Resilience Agro (sol)
+:description: Je ne sait pas encore ce \
+    que je vais écrire ici...
+    
+----
+Préambule avant ToC
+----
+
+
+// ---------------------------------------------------
+
+== Analyse par dilution ?
+Photo d'un dépot argile / limon / sable
+https://www.facebook.com/groups/MaraichageSolVivant/?post_id=2944487588990488 
+
