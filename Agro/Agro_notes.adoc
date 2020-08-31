@@ -1,0 +1,91 @@
+= Notes à propos de la chose agro: Et son sous-titre
+Bernard Mayer
+v1.0, 2020-08-31: First draft
+:source-highlighter: coderay
+:sectnums:
+:toc: preamble
+:toclevels: 4
+:toc-title: ToC
+// Permet que la ToC soit numerotee
+:numbered:
+:imagesdir: ./img
+// :imagedir: ./MOS_Modelisation_UserCode-img
+
+:ldquo: &laquo;&nbsp;
+:rdquo: &nbsp;&raquo;
+
+:keywords: Resilience Agro
+:description: Je ne sait pas encore ce \
+    que je vais écrire ici...
+    
+----
+Préambule avant ToC
+----
+
+
+// ---------------------------------------------------
+
+== Forums jardinage
+link:https://www.econologie.com/potager-paresseux-jardiner-sans-efforts-avec-foin/[https://www.econologie.com/potager-paresseux-jardiner-sans-efforts-avec-foin/]
+link:https://www.econologie.com/forums/agriculture/le-potager-du-paresseux-jardiner-plus-que-bio-sans-fatigue-t13846.html[https://www.econologie.com/forums/agriculture/le-potager-du-paresseux-jardiner-plus-que-bio-sans-fatigue-t13846.html]
+link:https://www.alsagarden.com/blog/le-potager-du-paresseux-de-didier-helmstetter/[https://www.alsagarden.com/blog/le-potager-du-paresseux-de-didier-helmstetter/]
+link:https://forum.jardiner-malin.fr/[https://forum.jardiner-malin.fr/]
+link:https://jardinierparesseux.com/[https://jardinierparesseux.com/]
+
+== Mon idée pour nettoyer Guillac :
+Bâcher le sol, obscurcir avec du carton (sans encre/étiquette/scotch...)
+
+
+=== Tortue vs lapin
+Tondeuse autoportée ? +
+Débroussailleuse à roues ? +
+Micro-tracteur ? +
+
+Une débroussailleuse à roues genre +
+image:debroussailleuses_rechercheLBC.png[résultat d'une recherche de débroussailleuse sur LBC, pour 44 et 56] +
+qui retourne quelque chose comme : +
+image:debroussailleuses_noName.png[Un engin sans marque] +
+ou mieux : +
+image:debroussailleuses_HusqvarnaDB51.png[Husqvarna DB51] +
+ou Staub, ou Viking, ou Honda ...
+
+Ou bien il y a la location à St Brévin : +
+image:debroussailleuses_LocStBrevin.png[Une Staub à St Brévin] +
+link:https://www.leboncoin.fr/jardinage/1801833644.htm/[Meca garden St Brevin] +
+Une Staub, pas trop chère, sans doute suffisante pour ce que l'on a à faire, en complément du débroussailleur. Le loueur de Josselin en a aussi, peut-être moins cher +
+
+Le cran au dessus (y compris au niveau prix) à la location à Ploermel ; machine à fléaux, comme les trucs qui font le bord des routes : +
+image:debroussailleuses_BroyeurAFleaux-Ploermel.png[broyeur a fleux Ploermel Plo-LocMat]
+link:https://www.leboncoin.fr/prestations_de_services/461530077.htm/[]
+
+Toujours autour de Guillac ;
+
+- Josselin.
+* Josselin motoculture (*meilleur choix ?*) +
+Rue de l’Ecusson ZC Le Pont Mareuc 02 97 22 28 02 +
+(35€/j loc debroussailleuse !) +
+https://josselin-motoculture.com/locations-2/location-de-materiel-de-motoculture/
+- Ploermel
+* Voir au dessus Plo-LocMat +
+(Moins cher que Josselin pour la machine à fléaux ?)
+* Bricomarché Rue Chateaubriant  02 97 93 63 25
+* Espace Emeraude Rue Edouard Branly Parc D'Activités Du Bois Vert 02 97 74 10 54
+* Blanchard agriculture ZA du Bois Vert 02 97 74 27 18 +
+https://www.blanchardagriculture.com/materiels-espaces-verts/p17647
+
+== Planter des arbres fruitiers
+Pommes, noisettes, chataignes. +
+Impératif, des variétés rustiques de chez rustiques ; on ne sait pas s'en occuper, on est loin, on n'a pas le temps.
+
+=== En Bretagne
+link:https://www.arbrofruit.fr/porte-greffes-jeunes-plants/[]
+
+=== Pommes
+link:https://www.ericdumont.fr/catalogue-tarif-commande/les-pommiers/les-pommiers-couteau-hiver-longue-conservation/[]
+
+=== Noisettes
+link:https://www.journaldesfemmes.fr/jardin/encyclopedie-plantes/2412920-noisetier/[]
+
+=== Chataigniers
+link:https://www.pepinieredubosc.fr/chataigniers-noisetiers-2/[]
+link:https://www.jardiniers-professionnels.fr/comment-planter-et-entretenir-un-chataignier/[]
