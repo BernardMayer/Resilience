@@ -33,8 +33,8 @@ link:https://forum.jardiner-malin.fr/[https://forum.jardiner-malin.fr/]
 link:https://jardinierparesseux.com/[https://jardinierparesseux.com/]
 
 == Mon idée pour nettoyer Guillac :
-Bâcher le sol, obscurcir avec du carton (sans encre/étiquette/scotch...)
-
+=== Méthode poil dans la main
+Bâcher le sol, obscurcir avec du carton (sans encre/étiquette/scotch...) sous les bâches. Les bâches sont tenues avec des agrafes métalliques (dans du fer à béton)
 
 === Tortue vs lapin
 Tondeuse autoportée ? +
@@ -73,6 +73,9 @@ https://josselin-motoculture.com/locations-2/location-de-materiel-de-motoculture
 * Blanchard agriculture ZA du Bois Vert 02 97 74 27 18 +
 https://www.blanchardagriculture.com/materiels-espaces-verts/p17647
 
+== Sol
+link:https://jardinonssolvivant.fr/le-sol-cet-inconnu/[]
+
 == Planter des arbres fruitiers
 Pommes, noisettes, chataignes. +
 Impératif, des variétés rustiques de chez rustiques ; on ne sait pas s'en occuper, on est loin, on n'a pas le temps.
@@ -82,6 +85,10 @@ link:https://www.arbrofruit.fr/porte-greffes-jeunes-plants/[]
 
 === Pommes
 link:https://www.ericdumont.fr/catalogue-tarif-commande/les-pommiers/les-pommiers-couteau-hiver-longue-conservation/[]
+link:https://www.jardiner-malin.fr/fiche/entretien-pommier.html[]
+link:https://pepiniere-altitude.com/pommiers/[]
+link:https://www.rustica.fr/fruits-et-verger/pommier-sans-traitement,9093.html[]
+link:https://www.pepinieres-naudet.com/boutique/76-pommier[]
 
 === Noisettes
 link:https://www.journaldesfemmes.fr/jardin/encyclopedie-plantes/2412920-noisetier/[]
@@ -89,3 +96,9 @@ link:https://www.journaldesfemmes.fr/jardin/encyclopedie-plantes/2412920-noiseti
 === Chataigniers
 link:https://www.pepinieredubosc.fr/chataigniers-noisetiers-2/[]
 link:https://www.jardiniers-professionnels.fr/comment-planter-et-entretenir-un-chataignier/[]
+
+== Planter des céréales ?
+link:https://jardinage.lemonde.fr/dossier-1484-seigle.html[]
+link:https://www.universalis.fr/encyclopedie/seigle/1-une-cereale-plus-rustique-que-le-ble/[]
+link:https://jardinonssolvivant.fr/produit/seigle-fourrager/[]
+link:https://www.fermedesaintemarthe.com/A-15016-seigle-perenne-ab-250-g.aspx[]

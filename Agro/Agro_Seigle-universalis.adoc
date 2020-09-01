@@ -1,0 +1,40 @@
+= Seigle: Article d'origine universalis.fr
+Bernard Mayer
+v1.0, 2020-08-31: First draft
+:source-highlighter: coderay
+:sectnums:
+:toc: preamble
+:toclevels: 4
+:toc-title: ToC
+// Permet que la ToC soit numerotee
+:numbered:
+:imagesdir: ./img
+// :imagedir: ./MOS_Modelisation_UserCode-img
+
+:ldquo: &laquo;&nbsp;
+:rdquo: &nbsp;&raquo;
+
+:keywords: Resilience Agro
+:description: Je ne sait pas encore ce \
+    que je vais écrire ici...
+    
+----
+Récupéré à link:https://www.universalis.fr/encyclopedie/seigle/1-une-cereale-plus-rustique-que-le-ble/[]
+----
+
+
+// ---------------------------------------------------
+
+== Une céréale plus rustique que le blé
+Le seigle appartient à la famille des Poacées (anciennement Graminées). 
+C’est une céréale de grande taille (jusqu'à 2 mètres de hauteur), dont les épis sont allongés et barbus. 
+Comme pour le blé, la culture du seigle est panifiable, mais ses rendements par hectare sont aujourd’hui, dans l’Union européenne, deux fois inférieurs à ceux du blé. 
+Sur le plan écologique, le seigle présente l'avantage, par rapport au blé, d'être plus rustique, plus résistant au froid, plus précoce et surtout mieux adapté aux terres froides, acides et lessivées. 
+Jadis, on distinguait les ségalas, terres destinées à la production du seigle et situées sur les sols acides des massifs anciens, des fromentaux, terres plus fertiles des bassins sédimentaires où le blé pouvait être cultivé. 
+À partir de la seconde moitié du XIXe siècle, le développement des transports, en permettant l'apport d'amendements calcaires -– qui réduisent l’acidité des sols et améliorent leur fertilité -– a favorisé l’inexorable progression de la culture du blé -– céréale dite noble et aux rendements plus élevés -–, au détriment des superficies consacrées jusque-là au seigle.
+
+On connaît plusieurs espèces spontanées de seigle. 
+L'une d'entre elles, Secale montanum, présente de l'Anatolie au Turkestan, pourrait être l'ancêtre des seigles actuellement cultivés. 
+Dans le passé, la culture du seigle a connu un regain de faveur lors de périodes de refroidissement climatique : ainsi, au XVIIe siècle, lors du « petit âge glaciaire », le blé avait fait place dans la Beauce au méteil, culture faite d’un mélange de seigle et de blé.
+
+La suite est réservé aux abonnés.
