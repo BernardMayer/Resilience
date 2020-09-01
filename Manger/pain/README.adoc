@@ -15,6 +15,12 @@ link:Pain_002-1CocotteUstensiles.pdf[Pain_002-1CocotteUstensiles.pdf] +
 link:Pain_002-2CocotteLevain.pdf[Pain_002-2CocotteLevain.pdf] +
 link:Pain_002-3CocotteEtapesFabrication.pdf[Pain_002-3CocotteEtapesFabrication.pdf]
 
+== Recette n°3
+link:PainCocotte-003.pdf[PainCocotte-003.pdf]
+
+== Recette n°4
+link:PainCocotte-004.pdf[PainCocotte-004.pdf]
+
 === Document savant sur la panification
 link:./LaPanificationAuLevainNaturel_PhilippeRoussel.epub[Un ePub sur la panification]
 
