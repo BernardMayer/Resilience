@@ -1,0 +1,36 @@
+= Agro : A propos de l'aggradation du sol
+Bernard Mayer
+v1.0, 2020-09-04: First draft
+:source-highlighter: coderay
+:sectnums:
+:toc: preamble
+:toclevels: 4
+:toc-title: ToC Agro > Sol > Aggradation
+// Permet que la ToC soit numerotee
+:numbered:
+:imagesdir: ./img
+// :imagedir: ./MOS_Modelisation_UserCode-img
+
+:ldquo: &laquo;&nbsp;
+:rdquo: &nbsp;&raquo;
+
+:keywords: Resilience Agro
+:description: Je ne sait pas encore ce \
+    que je vais écrire ici...
+    
+----
+Faire connaissance d'un sol, réparer son éventuelle dégradation.
+----
+
+
+// ---------------------------------------------------
+
+== Faire connaissance avec le sol
+Un chapitre spécifique : +
+link:./ReconnaitreTypeDeSol/[vers le répertoire dédié]
+
+== Annexes
+link:https://potagerdurable.com/deux-trucs-avec-du-carton-pour-que-votre-potager-resiste-mieux-a-la-chaleur/[] +
+link:https://potagerdurable.com/fertilite/[]
+
+

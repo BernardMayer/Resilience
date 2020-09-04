@@ -1,0 +1,71 @@
+[.text-center]
+= Agro
+Bernard Mayer <john.doe@anywhere.tld>
+v1.0, 2020-09-04: First draft
+:source-highlighter: coderay
+:sectnums:
+:toc: preamble
+:toclevels: 4
+:toc-title: ToC Agro > Sol > Aggradation
+// Permet que la ToC soit numerotee
+:numbered:
+:imagesdir: ./img
+// :imagedir: ./MOS_Modelisation_UserCode-img
+
+:ldquo: &laquo;&nbsp;
+:rdquo: &nbsp;&raquo;
+
+:keywords: Resilience Agro
+:description: Je ne sait pas encore ce \
+    que je vais écrire ici...
+    
+----
+Faire connaissance d'un sol, réparer son éventuelle dégradation.
+----
+
+
+// ---------------------------------------------------
+
+== Notes
+Guillac et les ronces et autres notes... +
+link:Agro_notes.adoc[]
+
+== Faire connaissance avec le sol
+Un chapitre spécifique : +
+link:./ReconnaitreTypeDeSol/[vers le répertoire dédié] +
+link:./Agro_Aggradation.adoc[] 
+
+== Quelques conseils pour démarrer un potager
+link:./doc/Agro_FermeSteMarthe_ConseilsPotagerDeBalcon.pdf[] +
+link:./doc/Agro_FermeSteMarthe_ConseilsPotagerEnCarres.pdf[] +
+link:./doc/Agro_FermeSteMarthe_ConseilsPotagerJardin.pdf[] 
+
+== Bibliographie du livre Bec Hellouin 1^ere^ édition
+link:./doc/Agro_BecHellouin2014_Biblio.pdf[]
+
+
+
+// --------------------------------------------------------
+
+== Annexes
+
+=== Les documents
+Un répertoire contient les documents +
+link:./doc/[] +
+dont ceux non répertoriés plus haut): +
+
+* link:.doc/2013-Servigne-LES-VERTS-Nourrir-leurope-en-temps-de-crise.pdf[]
+* link:./doc/Agro_AES_vol5_n1_04_Habets_Viennot.pdf[]
+* link:./doc/Agro_ChristopheGatineau_ButteDeCulturePermaculture-2020-04.pdf[]
+* link:./doc/Agro_GramineeTableau.pdf[]
+// * link:./doc/[] +
+// * link:./doc/[] +
+// * link:./doc/[] +
+// * link:./doc/[] +
+
+
+=== Quelques liens
+link:https://potagerdurable.com/deux-trucs-avec-du-carton-pour-que-votre-potager-resiste-mieux-a-la-chaleur/[] +
+link:https://potagerdurable.com/fertilite/[]
+
+

@@ -1,0 +1,73 @@
+= Seigle: Article d'origine universalis.fr
+Bernard Mayer
+v1.0, 2020-08-31: First draft
+:source-highlighter: coderay
+:sectnums:
+:toc: preamble
+:toclevels: 4
+:toc-title: ToC
+// Permet que la ToC soit numerotee
+:numbered:
+:imagesdir: ./img
+// :imagedir: ./MOS_Modelisation_UserCode-img
+
+:ldquo: &laquo;&nbsp;
+:rdquo: &nbsp;&raquo;
+
+:keywords: Resilience Agro
+:description: Je ne sait pas encore ce \
+    que je vais écrire ici...
+    
+----
+Récupéré à link:https://jardinage.lemonde.fr/dossier-1484-seigle.html[]
+----
+
+
+// ---------------------------------------------------
+
+== Seigle (Secale cereale L.), une culture très facile
+Le seigle (Secale cereale L.) est une plante herbacée bisannuelle rustique de la famille des Poacées (graminées) qui pousse très facilement, notamment dans les terres froides et pauvres. Le seigle se caractérise par une grande hauteur pouvant atteindre 1,5 m pour certaines variétés. Au sommet, l’épi barbu ressemble à celui du blé en un peu plus court : les épillets ne comptent que deux graines (caryopses) dont les glumelles s’ouvrent lorsque le grain arrive à maturité. Ce dernier se distingue du grain de blé par une forme plus allongée.
+
+Bien évidemment, aujourd’hui le seigle est toujours cultivé, surtout en bio, pour faire de la farine qui servira notamment à fabriquer du pain de seigle mais sa culture est devenue confidentielle par rapport aux autres céréales plus traditionnelles dont la farine se travaille mieux en vue de la panification. Cependant, le grain sert aussi à faire de la bière, du whisky, du gin... D’un point de vue nutritionnel, le seigle est intéressant du fait de sa faible teneur en gluten, notamment pour les intolérants au gluten. Par ailleurs, il a une teneur notable en magnésium, potassium, zinc, phosphore, fer, cuivre, acide folique, vitamine B6, riboflavine et calcium. On lui reconnait une action légèrement laxative du fait de sa richesse en fibres.
+
+En alimentation animale, le grain de seigle n’est pas plus recherché que cela du fait de la présence d’un parasite toxique, l’ergot de seigle, souvent en trop forte proportion. On utilise le fourrage de seigle avant que la paille ne devienne trop dure.
+La paille du seigle a un débouché comme matériau isolant, pour construire des toitures en chaume ou comme matière première de différents artisanats.
+
+Au jardin, le seigle est particulièrement intéressant comme engrais vert d’automne, notamment dans les régions de montagne où le printemps est court : à l’automne, les graines germent et lèvent puis stagnent pendant l’hiver et ses gelées mais la végétation reprend dès que le printemps arrive. Ainsi, le développement de la végétation gagné à l’automne compense le court printemps tardif de certaines régions.
+
+Le seigle associé à la vesce permet de décompacter le sol, surtout s’il est argileux : avec son cheveu racinaire très développé, le seigle va fissurer la terre en surface tandis que la vesce va apporter l’azote nécessaire. En mai et juin, cet engrais vert sera prêt à être arraché, puis grossièrement haché avant d’être légèrement enfoui ou utilisé en paillage selon que les plantations derrières soient prévues plus tard ou immédiatement. Le seigle est assez long à se décomposer.
+
+* Famille : Poacées
+* Type : bisannuelle
+* Origine : Asie centrale
+* Couleur : vert puis doré lorsqu’il est à maturité
+* Semis : oui
+* Bouture : non
+* Plantation : septembre-octobre
+* Récolte : mai-juin
+* Hauteur : jusqu'à 1,5 m selon les espèces
+
+== Sol et exposition idéals pour le seigle
+Le seigle se cultive en plein soleil dans tous types de sols, y compris acides, même pauvres et froids.
+
+== Date de semis du seigle
+Les semis se font en fin d’été début d’automne, autour du 15 septembre, à raison de 10 g/m², en enfonçant les graines à 3 cm environ sur un sol bien préparé. Ce semis précoce lui permettra de bien taller avant l’hiver.
+
+== Conseil d’entretien et de culture du seigle
+Le seigle a l’avantage de bien couvrir le sol, ce qui limite le développement des adventices. Il a une reprise précoce au printemps.
+
+== Récolte, conservation et utilisation du seigle
+La récolte du seigle intervient toujours avant celle du blé, ce qui est d’autant plus recommandé s’il s’agit de destiner la paille à l’alimentation du bétail car elle sera trop dure au-delà d’un fauchage en avril-mai.
+
+L’arrachage du seigle comme engrais vert se fait également au printemps.
+
+Les grains arrivent à maturité pour une utilisation en farine fin juin, début juillet.
+
+== Maladies, nuisibles et parasites du seigle
+L'ergot du seigle est un parasite toxique qui se développe dans le seigle, le rendant poison du fait des alcaloïdes qu’il contient. La rouille brune est également une maladie du seigle.
+
+== Emplacement et association favorable du seigle
+C'est une plante qui se cultive en association avec la vesce ou le trèfle dans le cas d’une utilisation comme engrais vert puisque qu’ils offrent une complémentarité intéressante : amélioration de la structure du sol pour le seigle et apport d’azote pour les autres.
+
+== Variétés conseillées de seigle pour planter au jardin
+On en compte différentes variétés selon l'utilisation envisagé pour le seigle, sa période de semis et celle de récolte...

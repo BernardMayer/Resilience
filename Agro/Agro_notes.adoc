@@ -76,6 +76,9 @@ https://www.blanchardagriculture.com/materiels-espaces-verts/p17647
 == Sol
 link:https://jardinonssolvivant.fr/le-sol-cet-inconnu/[]
 
+== PdT, patates, pommes de terre
+link:https://www.facebook.com/groups/1877816879123880/permalink/2697247077180852/[]
+
 == Planter des arbres fruitiers
 Pommes, noisettes, chataignes. +
 Impératif, des variétés rustiques de chez rustiques ; on ne sait pas s'en occuper, on est loin, on n'a pas le temps.
@@ -98,7 +101,15 @@ link:https://www.pepinieredubosc.fr/chataigniers-noisetiers-2/[]
 link:https://www.jardiniers-professionnels.fr/comment-planter-et-entretenir-un-chataignier/[]
 
 == Planter des céréales ?
-link:https://jardinage.lemonde.fr/dossier-1484-seigle.html[]
-link:https://www.universalis.fr/encyclopedie/seigle/1-une-cereale-plus-rustique-que-le-ble/[]
-link:https://jardinonssolvivant.fr/produit/seigle-fourrager/[]
-link:https://www.fermedesaintemarthe.com/A-15016-seigle-perenne-ab-250-g.aspx[]
+* link:./doc/Agro_Seigle-Wikipedia.pdf[]
+* link:https://jardinage.lemonde.fr/dossier-1484-seigle.html[] +
+link:./doc/Agro_Seigle-jardinage-LeMonde.adoc[]
+* link:https://www.universalis.fr/encyclopedie/seigle/1-une-cereale-plus-rustique-que-le-ble/[] +
+link:./doc/Agro_Seigle-universalis.adoc[]
+* link:https://jardinonssolvivant.fr/produit/seigle-fourrager/[]
+* link:https://www.fermedesaintemarthe.com/A-15016-seigle-perenne-ab-250-g.aspx[]
+
+
+== Biblio du Bec Hellouin
+Peut être bien amélioré... Rotation, OCR, (reprise à la main ?) +
+link:./doc/Agro_BecHellouin2014_Biblio.pdf[]
