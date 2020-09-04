@@ -28,11 +28,13 @@ Ni dieu ni maître ? Peut-être... Vous en pensez ce que vous voulez, vous êtes
 //image:img/ArbreAOiseaux.jpg[ArbreAOiseaux.jpg] image:./img/bourricot.jpg[moi]
 
 |===
+
 |Pourquoi ?|Qui suis-je ?
 
 | Car je n'aime pas être parmi les oiseaux du perchoir du dessousfootnote:[Et pas non plus au dessus...]. + 
-image:./img/ArbreAOiseaux.jpg[ArbreAOiseaux.jpg] | image:./img/bourricot.jpg[moi]
+image:./img/ArbreAOiseaux.jpg[ArbreAOiseaux.jpg] 
+    | image:./img/bourricot.jpg[moi]
 
-
+|===
 
 link:https://www.sismique.fr/post/changement-climatique-on-refait-le-point[]
