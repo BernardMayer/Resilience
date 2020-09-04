@@ -1,4 +1,4 @@
-[.text-center]
+//[.text-center]
 = Agro
 Bernard Mayer <john.doe@anywhere.tld>
 v1.0, 2020-09-04: First draft
