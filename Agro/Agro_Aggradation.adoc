@@ -29,6 +29,33 @@ Faire connaissance d'un sol, réparer son éventuelle dégradation.
 Un chapitre spécifique : +
 link:./ReconnaitreTypeDeSol/[vers le répertoire dédié]
 
+link:https://www.facebook.com/groups/MaraichageSolVivant/permalink/2961105390662041/?[] +
+Léa Jahan -> Maraichage sol vivant (MSV)
+Bonjour à tous 
+A force de lire vos différentes publications et questions/réponses je me rends compte à quel point je suis novice! Du coup plusieurs questions me viennent:
+Comment faire un état des lieux de notre terrain? Comment savoir exactement a quelle terre nous avons affaire? J'imagine que c'est la base pour savoir comment la nourrir au mieux. 
+Nous sommes dans l'ain en Rhône Alpes,avec donc des gelées l'hiver mais aussi une grande sécheresse l'été.  
+A priori je dirais qu'on est sur un terrain argileux,compact.  Entourés de champs pour vaches laitières. 
+Voila mon potager n'a pas été une belle réussite cette année je trouve, je cherche donc votre aide de pros ! 
+D'un côté on a un potager sur sol,première fois travaillé depuis des années, près d'un cerisier que je soupçonne de pomper toutes les réserves. Et de l'autre nous avons commencé des carrés potager façon permaculture avec matériaux à dispo, grosses branches en dessous puis petits branchages et verdures et enfin de la terre. J'ai jeté quelques pieds de potirons qui ont l'air de s'y plaire. 
+C'est un peu fouilli tout ça mais help ! 🤣
+Nourrir la terre avec du fumier? ( mélange de crottin de cheval et de foin?) Je ne veux pas spécialement cultiver de légumes d'hiver, que faut il mettre sur le sol en attendant? 
+
+.Arnaud Tilbian
+Hello ! Quelques pistes que je peux te proposer 
+: étudier les plantes qui poussent spontanément sur ton terrain
+, elles sont indicatrices de beaucoup d’élément sur tes sols 
+(la bible du domaine 
+: https://www.permaculturedesign.fr/livre-permaculture-encyclopedie-des-plantes-bio-indicatrices-gerard-ducerf-plante-sol/ ). + 
+Une autre approche complémentaire est l'analyse directe de tes sols
+ , dont voici une méthodologie 
+ : https://gironde.chambre-agriculture.fr/fileadmin/user_upload/Nouvelle-Aquitaine/100_Inst-Gironde/Documents/pdf_nos_publications/Livret_chambreagricultureA5-compresse.pdf
+
+.Sylwi Llems
+Étaler du compost meme incompletement décomposé sur des cartons bruns sans encre installés sur le sol. 
+Les vers de terre vont travailler la dessous bien au chaud et dans l'humidité tout l'hiver et ameublir le sol et l'enrichir.
+
+
 == Annexes
 link:https://potagerdurable.com/deux-trucs-avec-du-carton-pour-que-votre-potager-resiste-mieux-a-la-chaleur/[] +
 link:https://potagerdurable.com/fertilite/[]
