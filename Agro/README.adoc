@@ -67,7 +67,7 @@ dont ceux non répertoriés plus haut): +
 
 
 === Quelques liens
-link:https://potagerdurable.com/deux-trucs-avec-du-carton-pour-que-votre-potager-resiste-mieux-a-la-chaleur/[] +
-link:https://potagerdurable.com/fertilite/[]
-
+* link:https://potagerdurable.com/deux-trucs-avec-du-carton-pour-que-votre-potager-resiste-mieux-a-la-chaleur/[] 
+* link:https://potagerdurable.com/fertilite/[]
+* link:http://www.lejardinvivant.fr/[] Le blog de Christophe Gatineau
 
