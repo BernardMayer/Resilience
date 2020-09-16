@@ -41,9 +41,11 @@ link:./doc/Agro_FermeSteMarthe_ConseilsPotagerEnCarres.pdf[] +
 link:./doc/Agro_FermeSteMarthe_ConseilsPotagerJardin.pdf[] 
 
 == Bibliographie du livre Bec Hellouin 1^ere^ édition
-link:./doc/Agro_BecHellouin2014_Biblio.pdf[]
+link:./doc/Agro_BecHellouin2014_Biblio.pdf[] +
+Peut être bien améliorée (OCR ?)
 
-
+== Proposition de lecture
+link:./Agro_lectures.adoc[]
 
 // --------------------------------------------------------
 

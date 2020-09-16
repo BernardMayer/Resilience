@@ -26,11 +26,11 @@ Préambule avant ToC
 // ---------------------------------------------------
 
 == Forums jardinage
-link:https://www.econologie.com/potager-paresseux-jardiner-sans-efforts-avec-foin/[https://www.econologie.com/potager-paresseux-jardiner-sans-efforts-avec-foin/]
-link:https://www.econologie.com/forums/agriculture/le-potager-du-paresseux-jardiner-plus-que-bio-sans-fatigue-t13846.html[https://www.econologie.com/forums/agriculture/le-potager-du-paresseux-jardiner-plus-que-bio-sans-fatigue-t13846.html]
-link:https://www.alsagarden.com/blog/le-potager-du-paresseux-de-didier-helmstetter/[https://www.alsagarden.com/blog/le-potager-du-paresseux-de-didier-helmstetter/]
-link:https://forum.jardiner-malin.fr/[https://forum.jardiner-malin.fr/]
-link:https://jardinierparesseux.com/[https://jardinierparesseux.com/]
+* link:https://www.econologie.com/potager-paresseux-jardiner-sans-efforts-avec-foin/[https://www.econologie.com/potager-paresseux-jardiner-sans-efforts-avec-foin/]
+* link:https://www.econologie.com/forums/agriculture/le-potager-du-paresseux-jardiner-plus-que-bio-sans-fatigue-t13846.html[https://www.econologie.com/forums/agriculture/le-potager-du-paresseux-jardiner-plus-que-bio-sans-fatigue-t13846.html]
+* link:https://www.alsagarden.com/blog/le-potager-du-paresseux-de-didier-helmstetter/[https://www.alsagarden.com/blog/le-potager-du-paresseux-de-didier-helmstetter/]
+* link:https://forum.jardiner-malin.fr/[https://forum.jardiner-malin.fr/]
+* link:https://jardinierparesseux.com/[https://jardinierparesseux.com/]
 
 == Mon idée pour nettoyer Guillac :
 === Méthode poil dans la main

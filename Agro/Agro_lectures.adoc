@@ -1,0 +1,74 @@
+= Agro : Quelques lectures
+Bernard Mayer <john.doe@anywhere.tld>
+v1.0, 2020-09-16: First draft
+:source-highlighter: coderay
+:sectnums:
+:toc: preamble
+:toclevels: 4
+:toc-title: ToC Agro > lectures
+// Permet que la ToC soit numerotee
+:numbered:
+:imagesdir: ./img
+// :imagedir: ./MOS_Modelisation_UserCode-img
+
+:ldquo: &laquo;&nbsp;
+:rdquo: &nbsp;&raquo;
+
+:keywords: Resilience Agro
+:description: Je ne sait pas encore ce \
+    que je vais écrire ici...
+    
+----
+Liens vers quelques lectures. +
+
+
+----
+
+
+// ---------------------------------------------------
+
+== Scinder un gros fichier en plusieurs plus petits et inversement
+Les documents à lire faisant généralement plus que la taille maximale admise par l'hébergeur, 
+25Mo dans mon cas, ceux-ci ont été scindés en plusieurs parties.
+
+La commande pour réaliser ceci est : +
+`tar -czvpf - Agro_NomDuDoc.pdf |split -d -b23M - Agro_NomDuDoc-` +
+Attention à ne pas oublier les tirets, tant de la commande tar que de la commande split. 
+Le tiret au bout du nom du fichier de sortie de split n'est là que pour composer le nom de fichier, avant la partie numérique. 
+Cela a comme avantage de nous simplifier la vie lors de la manoeuvre inverse, 
+en ayant un orthographe de nom de fichier différente (par le tiret) du nom de fichier qui sera créé.
+
+On obtient : +
+----
+Agro_NomDuDoc-00
+Agro_NomDuDoc-01
+Agro_NomDuDoc-02
+Agro_NomDuDoc-03
+Agro_NomDuDoc.pdf
+----
+Soit 4 petits fichiers, et le fichier pdf d'origine.
+
+Pour réaliser la manoeuvre inverse, +
+`cat Agro_NomDuDoc-* | tar -xzvf -`
+
+
+== Littérature ancienne
+
+
+=== Ma Pratique de la culture maraîchère ordinaire et forcée
+Ma Pratique de la culture maraîchère ordinaire et forcée (2e éd.) / par J. Curé, 1918 +
+link:https://gallica.bnf.fr/ark:/12148/bpt6k9106288z[] +
+sauvegarde locale dans link:./doc/[] de `Agro_MaPratiqueDeLaCultureMaraichereOrdinaireEtForcee_Cure-1918-*`
+
+
+=== La Culture maraîchère pratique des environs de Paris
+La Culture maraîchère pratique des environs de Paris, par I. Ponce, 1869 +
+link:https://gallica.bnf.fr/ark:/12148/bpt6k311427p[] +
+sauvegarde locale dans link:./doc/[] de `Agro_LaCultureMaraicherePratiqueDesEnvironsDeParis_Ponce-1869-*`
+
+
+=== Manuel pratique de la culture maraîchère de Paris
+Manuel pratique de la culture maraîchère de Paris / par J. G. Moreau et J. J. Daverne 1845 +
+link:https://gallica.bnf.fr/ark:/12148/bpt6k6423206t[] +
+sauvegarde locale dans link:./doc/[] de `Agro_ManuelPratiqueDeLaCultureMaraichereDeParis_Moreau_Daverne-1845-*`
+
