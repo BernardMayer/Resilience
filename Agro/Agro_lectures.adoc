@@ -58,17 +58,19 @@ Pour réaliser la manoeuvre inverse, +
 === Ma Pratique de la culture maraîchère ordinaire et forcée
 Ma Pratique de la culture maraîchère ordinaire et forcée (2e éd.) / par J. Curé, 1918 +
 link:https://gallica.bnf.fr/ark:/12148/bpt6k9106288z[] +
-sauvegarde locale dans link:./doc/[] de `Agro_MaPratiqueDeLaCultureMaraichereOrdinaireEtForcee_Cure-1918-*`
+sauvegarde locale dans link:./doc/[] de `Agro_MaPratiqueDeLaCultureMaraichereOrdinaireEtForcee_Cure-1918-*` +
+Un exemplaire utilisable est disponible ici link:http://lauben.figaro.1.free.fr/doc/Agro_MaPratiqueDeLaCultureMaraichereOrdinaireEtForcee_Cure-1918.pdf[]
 
 
 === La Culture maraîchère pratique des environs de Paris
 La Culture maraîchère pratique des environs de Paris, par I. Ponce, 1869 +
 link:https://gallica.bnf.fr/ark:/12148/bpt6k311427p[] +
 sauvegarde locale dans link:./doc/[] de `Agro_LaCultureMaraicherePratiqueDesEnvironsDeParis_Ponce-1869-*`
+Un exemplaire utilisable est disponible ici link:http://lauben.figaro.1.free.fr/doc/Agro_LaCultureMaraicherePratiqueDesEnvironsDeParis_Ponce-1869.pdf[]
 
 
 === Manuel pratique de la culture maraîchère de Paris
 Manuel pratique de la culture maraîchère de Paris / par J. G. Moreau et J. J. Daverne 1845 +
 link:https://gallica.bnf.fr/ark:/12148/bpt6k6423206t[] +
 sauvegarde locale dans link:./doc/[] de `Agro_ManuelPratiqueDeLaCultureMaraichereDeParis_Moreau_Daverne-1845-*`
-
+Un exemplaire utilisable est disponible ici link:http://lauben.figaro.1.free.fr/doc/Agro_ManuelPratiqueDeLaCultureMaraichereDeParis_Moreau_Daverne-1845.pdf[]
