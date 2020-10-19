@@ -52,10 +52,10 @@ Hello ! Quelques pistes que je peux te proposer
 : étudier les plantes qui poussent spontanément sur ton terrain
 , elles sont indicatrices de beaucoup d’élément sur tes sols 
 (la bible du domaine 
-: https://www.permaculturedesign.fr/livre-permaculture-encyclopedie-des-plantes-bio-indicatrices-gerard-ducerf-plante-sol/ ). + 
+link: https://www.permaculturedesign.fr/livre-permaculture-encyclopedie-des-plantes-bio-indicatrices-gerard-ducerf-plante-sol/[] ). + 
 Une autre approche complémentaire est l'analyse directe de tes sols
  , dont voici une méthodologie 
- : https://gironde.chambre-agriculture.fr/fileadmin/user_upload/Nouvelle-Aquitaine/100_Inst-Gironde/Documents/pdf_nos_publications/Livret_chambreagricultureA5-compresse.pdf
+ link: https://gironde.chambre-agriculture.fr/fileadmin/user_upload/Nouvelle-Aquitaine/100_Inst-Gironde/Documents/pdf_nos_publications/Livret_chambreagricultureA5-compresse.pdf[]
 
 .Sylwi Llems
 Étaler du compost meme incompletement décomposé sur des cartons bruns sans encre installés sur le sol. 

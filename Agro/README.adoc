@@ -35,17 +35,18 @@ Un chapitre spécifique : +
 link:./ReconnaitreTypeDeSol/[vers le répertoire dédié] +
 link:./Agro_Aggradation.adoc[] 
 
+=== Un début d'introduction à la biologie du sol
+link:./GuylaineGoulfier_DevenirJardinierSolVivant.adoc[]
+
 == Quelques conseils pour démarrer un potager
 link:./doc/Agro_FermeSteMarthe_ConseilsPotagerDeBalcon.pdf[] +
 link:./doc/Agro_FermeSteMarthe_ConseilsPotagerEnCarres.pdf[] +
 link:./doc/Agro_FermeSteMarthe_ConseilsPotagerJardin.pdf[] 
 
 == Bibliographie du livre Bec Hellouin 1^ere^ édition
-link:./doc/Agro_BecHellouin2014_Biblio.pdf[] +
-Peut être bien améliorée (OCR ?)
+link:./doc/Agro_BecHellouin2014_Biblio.pdf[]
 
-== Proposition de lecture
-link:./Agro_lectures.adoc[]
+
 
 // --------------------------------------------------------
 
@@ -67,7 +68,7 @@ dont ceux non répertoriés plus haut): +
 
 
 === Quelques liens
-* link:https://potagerdurable.com/deux-trucs-avec-du-carton-pour-que-votre-potager-resiste-mieux-a-la-chaleur/[] 
-* link:https://potagerdurable.com/fertilite/[]
-* link:http://www.lejardinvivant.fr/[] Le blog de Christophe Gatineau
+link:https://potagerdurable.com/deux-trucs-avec-du-carton-pour-que-votre-potager-resiste-mieux-a-la-chaleur/[] +
+link:https://potagerdurable.com/fertilite/[]
+
 
