@@ -1,0 +1,48 @@
+= Notes à propos de la chose agro: Et son sous-titre
+Bernard Mayer
+v1.0, 2020-08-31: First draft
+:source-highlighter: coderay
+:sectnums:
+:toc: preamble
+:toclevels: 4
+:toc-title: ToC
+// Permet que la ToC soit numerotee
+:numbered:
+:imagesdir: ./img
+// :imagedir: ./MOS_Modelisation_UserCode-img
+
+:ldquo: &laquo;&nbsp;
+:rdquo: &nbsp;&raquo;
+
+:keywords: Resilience Agro
+:description: Je ne sait pas encore ce \
+    que je vais écrire ici...
+    
+----
+Préambule avant ToC
+----
+
+
+// ---------------------------------------------------
+
+== Planter des arbres fruitiers
+Pommes, noisettes, chataignes. +
+Impératif, des variétés rustiques de chez rustiques ; on ne sait pas s'en occuper, on est loin, on n'a pas le temps.
+
+=== En Bretagne
+link:https://www.arbrofruit.fr/porte-greffes-jeunes-plants/[]
+
+=== Pommes
+link:https://www.ericdumont.fr/catalogue-tarif-commande/les-pommiers/les-pommiers-couteau-hiver-longue-conservation/[]
+link:https://www.jardiner-malin.fr/fiche/entretien-pommier.html[]
+link:https://pepiniere-altitude.com/pommiers/[]
+link:https://www.rustica.fr/fruits-et-verger/pommier-sans-traitement,9093.html[]
+link:https://www.pepinieres-naudet.com/boutique/76-pommier[]
+
+=== Noisettes
+link:https://www.journaldesfemmes.fr/jardin/encyclopedie-plantes/2412920-noisetier/[]
+
+=== Chataigniers
+link:https://www.pepinieredubosc.fr/chataigniers-noisetiers-2/[]
+link:https://www.jardiniers-professionnels.fr/comment-planter-et-entretenir-un-chataignier/[]
+

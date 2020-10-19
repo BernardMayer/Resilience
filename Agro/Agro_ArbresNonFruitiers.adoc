@@ -1,0 +1,44 @@
+= Notes à propos de la chose agro: Et son sous-titre
+Bernard Mayer
+v1.0, 2020-08-31: First draft
+:source-highlighter: coderay
+:sectnums:
+:toc: preamble
+:toclevels: 4
+:toc-title: ToC
+// Permet que la ToC soit numerotee
+:numbered:
+:imagesdir: ./img
+// :imagedir: ./MOS_Modelisation_UserCode-img
+
+:ldquo: &laquo;&nbsp;
+:rdquo: &nbsp;&raquo;
+
+:keywords: Resilience Agro
+:description: Je ne sait pas encore ce \
+    que je vais écrire ici...
+    
+----
+Préambule avant ToC
+----
+
+
+// ---------------------------------------------------
+
+
+
+== Planter des arbres NON fruitiers
+
+=== Charme vs Hêtre
+Le hêtre et le charme (charmille) sont des plantes pour haie qui se ressemblent beaucoup. Pendant l'été, la différence est plus difficile à voir, mais en hiver et au printemps, ils ont des caractéristiques différentes. Avec les deux vous pouvez planter de belles haies. Les arbres à feuilles marcescentes comme le Hêtre ou le Charme font un écran visuel toutes saisons, mais quelles sont les plus grandes différences?
+
+Au printemps, le Charme (Carpinus betulus) a des feuilles vert clair qui deviennent jaune d'or à l'automne, brun-orange en hiver. La feuille du charme a des dents. Le charme peut être utilisé comme une plante de haie mais peut également être utilisé pour la formation d'arcs, des blocs et d'autres figures. Un grand avantage du charme est la facilité avec il peut récupérer après la taille. Le Charme peut perdre quelques feuilles pendant l'hiver mais les feuilles tombées sont connu comme un excellent amélioration du sol.
+
+Le Hêtre (Fagus sylvatica) a une croissance plus lente. Ses feuilles roussissent mais restent jusqu'à l'arrivée des nouvelles pousses, donc il est aussi très adapté pour maintenir la vie privée / brise-vue. La feuille du hêtre a des poils.
+- Le hêtre est un peu plus approprié pour cacher une vue, haie brise-vent etc.
+- Le hêtre a de très belles couleurs à l'automne, du jaune au rouge.
+- Le charmille tolère plusieurs types de sol. Le hêtre aime un sol sableuse, pas trop humide, pas trop sec mais il n'aime pas un sol argileux. 
+- Vous pouvez laissé le charme grandir à la hauteur que vous souhaitez, avant de tailler pour la première fois. Mais vous devez tailler les têtes du hêtre pour assurer qu'il va également développer au bas de la plante.
+
+*Le hêtre a des feuilles avec des poils, le charme a des feuilles dentelées.* + 
+image:DifferenceHetreCharme.jpg[Difference entre les feuilles de hetre et de charme] 

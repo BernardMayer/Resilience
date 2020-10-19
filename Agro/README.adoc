@@ -1,7 +1,8 @@
 //[.text-center]
 = Agro
 Bernard Mayer <john.doe@anywhere.tld>
-v1.0, 2020-09-04: First draft
+//v1.0, 2020-09-04: First draft
+v1.1, 2020-10-19; Ajouts
 :source-highlighter: coderay
 :sectnums:
 :toc: preamble
@@ -30,22 +31,47 @@ Faire connaissance d'un sol, réparer son éventuelle dégradation.
 Guillac et les ronces et autres notes... +
 link:Agro_notes.adoc[]
 
+
 == Faire connaissance avec le sol
 Un chapitre spécifique : +
 link:./ReconnaitreTypeDeSol/[vers le répertoire dédié] +
 link:./Agro_Aggradation.adoc[] 
 
 === Un début d'introduction à la biologie du sol
-link:./GuylaineGoulfier_DevenirJardinierSolVivant.adoc[]
+link:./Agro_GuylaineGoulfier_DevenirJardinierSolVivant.adoc[]
+
+=== Du même tonneau
+link:https://jardinonssolvivant.fr/le-sol-cet-inconnu/[]
+
 
 == Quelques conseils pour démarrer un potager
 link:./doc/Agro_FermeSteMarthe_ConseilsPotagerDeBalcon.pdf[] +
 link:./doc/Agro_FermeSteMarthe_ConseilsPotagerEnCarres.pdf[] +
 link:./doc/Agro_FermeSteMarthe_ConseilsPotagerJardin.pdf[] 
 
+
+== La multiplication
+
+=== Bouturer
+link:Agro_Bouturer.adoc[]
+
+
+== Céréales
+link:Agro_Cereales.adoc[]
+
+
+== Arbres
+Les fruitiers (buissons comme cassis inclus), et les non fruitiers.
+
+=== Arbres fruitiers
+link:Agro_ArbresFruitiers.adoc[]
+
+=== Arbres NON fruitiers
+link:Agro_ArbresNonFruitiers.adoc[]
+
+
 == Bibliographie du livre Bec Hellouin 1^ere^ édition
 link:./doc/Agro_BecHellouin2014_Biblio.pdf[]
-
 
 
 // --------------------------------------------------------
@@ -57,7 +83,7 @@ Un répertoire contient les documents +
 link:./doc/[] +
 dont ceux non répertoriés plus haut): +
 
-* link:.doc/2013-Servigne-LES-VERTS-Nourrir-leurope-en-temps-de-crise.pdf[]
+* link:./doc/2013-Servigne-LES-VERTS-Nourrir-leurope-en-temps-de-crise.pdf[]
 * link:./doc/Agro_AES_vol5_n1_04_Habets_Viennot.pdf[]
 * link:./doc/Agro_ChristopheGatineau_ButteDeCulturePermaculture-2020-04.pdf[]
 * link:./doc/Agro_GramineeTableau.pdf[]

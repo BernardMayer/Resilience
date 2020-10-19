@@ -1,0 +1,118 @@
+= Notes à propos de la chose agro: Et son sous-titre
+Bernard Mayer
+//v1.0, 2020-08-31: First draft
+v1.1, 2020-10-19: Allegement
+:source-highlighter: coderay
+:sectnums:
+:toc: preamble
+:toclevels: 4
+:toc-title: ToC
+// Permet que la ToC soit numerotee
+:numbered:
+:imagesdir: ./img
+// :imagedir: ./MOS_Modelisation_UserCode-img
+
+:ldquo: &laquo;&nbsp;
+:rdquo: &nbsp;&raquo;
+
+:keywords: Resilience Agro
+:description: Je ne sait pas encore ce \
+    que je vais écrire ici...
+    
+----
+Préambule avant ToC
+----
+
+
+// ---------------------------------------------------
+
+== Comment faire des boutures de charmille ?
+Pour bouturer des vivaces ou des arbustes, commencez par prélever des branches à peine plus grosses qu'un crayon munies d'un morceau de talon. Piquez les boutures par paquet de 5 dans un mélange de sable et de terreau. Puis arrosez copieusement et cultivez-les à l'étouffée en les coiffant avec une bouteille en plastique découpée. Il existe une méthode plus facile : marcottez des branches basses en retirant une petite couronne d'écorce à enterrer ensuite dans un peu de terreau. Vous les détacherez du pied mère en mars de l'année suivante.
+
+== Bouturage de vivaces, arbustes et autres plantes
+link:https://www.rustica.fr/arbres-et-arbustes/bouturage-vivaces-arbustes-autres-plantes,2108.html[]
+
+=== Le matériel et les différentes techniques de bouturage
+Tout jardinier amateur peut bouturer ses plantes sans équipement coûteux. Selon les plantes, la réussite est plus ou moins importante, mais en cas d’échec, n’hésitez pas à recommencer. Cela ne vous demande qu’un peu de temps et c’est la meilleure façon pour “se faire la main”. Cette méthode de multiplication permet de conserver toutes les caractéristiques des plantes sur lesquelles vous prélevez les boutures, la couleur des feuilles et des fleurs, le port des plantes. Ce dernier élément est très intéressant pour réaliser une bordure ou une haie, tous les végétaux auront la même vigueur. Vous pouvez aussi reproduire un grand nombre de plantes en partant d’un ou deux sujets. Le bouturage est certes moins contraignant que le semis, mais vous devrez aérer, arroser, repiquer, surveiller vos boutures jusqu’à leur plantation définitive.
+
+Il vous faut :
+* des godets ou des pots
+* des caissettes, une miniserre, un châssis
+* des tessons, des billes d’argile pour le drainage
+* des verres ou des flacons (pour les boutures à réaliser dans l’eau)
+* de la tourbe blonde, du sable ou de la perlite, du terreau, de la terre de jardin
+* de la poudre d’hormones de bouturage
+* des étiquettes pour bien identifier les plantes
+* un sécateur propre, affûté et désinfecté
+* un transplantoir, un bâtonnet (pour faire des avant-trous)
+* une table de jardin
+
+=== Glossaire
+link:https://www.rustica.fr/fleurs/hormone-bouturage,2994.html[Hormones de bouturage] : c’est un produit de synthèse qui est utilisé pour stimuler l’émission des racines. L’enracinement démarre mieux : ce qui améliore le taux de reprise des boutures. Lorsque les espèces se multiplient sans difficulté, il est inutile d’avoir recours à des hormones artificielles. En revanche, lorsque le bouturage est jugé difficile, les hormones de synthèse deviennent très intéressantes. Cette substance, longtemps commercialisée en poudre, est désormais disponible en gel, plus facile à appliquer. Après avoir mouillé la base de la bouture, trempez la partie qui sera enterrée dans le gel ou dans la poudre. Secouez pour éliminer le surplus de poudre et ne laisser qu’une fine pellicule blanche. Car en cas de surdosage, les plants deviennent sensibles à certaines maladies, voire dépérissent.
+
+=== Bouture de tête simple
+image:BoutureDeTeteSimple-rustica.jpg[]
+
+L’aubriète, comme de nombreuses autres vivaces, est multipliée par bouture de tête simple.
+
+Prélever une tige saine de 5 cm de longueur qui comprend 2, voire 3 nœuds, ces points plus ou moins renflés où les feuilles s’insèrent. +
+Couper la tige à 2 ou 3 mm sous un nœud en faisant attention à ne pas l’abîmer. En effet, c’est à cet endroit précis que les racines commencent à se développer. +
+Afin de limiter au maximum les pertes d’eau, supprimer au moins 2 ou 3 feuilles de la base. +
+Les boutures herbacées réalisées durant les mois de mai et de juin, s’enracinent rapidement, au bout de 2 ou 3 mois selon les espèces. +
+Repiquer par la suite en automne à leur emplacement définitif, au jardin ou dans un pot.
+
+=== Bouture à crossette
+image:BoutureACrossette-rustica.jpg[]
+
+La multiplication de certains arbustes, comme le lilas, est délicate : les boutures s’enracinent mal. Prélever au printemps des jeunes pousses de un an, saines, en pleine végétation et dépourvues de boutons floraux.
+
+Choisir des tiges disposées à l’extrémité des rameaux. Elles donnent de meilleurs résultats. +
+Ensuite, réaliser une bouture à crossette en conservant à la base de la tige un tronçon de 2 ou 3 cm du rameau porteur. Supprimer les deux paires de feuilles inférieures pour limiter la perte d’eau, donc le dessèchement. +
+Tremper le talon de la bouture à crossette dans de la poudre ou bien du gel d’hormones de bouturage pour faciliter son enracinement. +
+Repiquer immédiatement en pépinière et recouvrir d’un plastique transparent. Cultiver la bouture à l’étouffée pendant 1 ou 2 mois pour limiter l’évapotranspiration. +
+À l’automne, repiquer dans un pot séparément, puis placer sous châssis en attendant le repiquage définitif. +
+
+=== Bouture de feuille
+image:BoutureDeFeuille-rustica.jpg[]
+
+Les vivaces à feuilles charnues et épaisses comme le sedum (orpin) peuvent être multipliées par bouture de feuille. En effet, cette dernière contient suffisamment d’eau et de nourriture pour survivre une fois qu’elle est détachée de la plante mère.
+
+Choisir des feuilles saines et bien représentatives de l’espèce. Couper le pétiole avec un greffoir bien affûté et désinfecté pour ne pas déchirer les tissus ni transmettre des maladies. +
+Laisser sécher au moins quelques heures les feuilles prélevées pour qu’un cal se forme. +
+Piquer en biais les pétioles dans un mélange composé à parts égales de terreau et de tourbe. +
+Vaporiser régulièrement avec une eau à température ambiante, puis placer la terrine au chaud, entre 16 et 20 °C. +
+Les jeunes feuilles vont apparaître au bout de 4 à 8 semaines au point d’insertion du pétiole. +
+Ne reste plus alors qu’à repiquer les plantules lorsqu’elles seront bien formées dans des godets séparés.
+
+== Bouture à l'étouffée
+link:https://www.18h39.fr/articles/tuto-apprenez-a-faire-des-boutures-a-letouffee-et-a-multiplier-vos-plantes-a-linfini.html[]
+
+Matthieu Maurer et La Sauge - Publié le 14 septembre 2018
+
+DIY - À l'aide d'une bouteille en plastique et d'un peu de terreau, apprenez la technique de la bouture à l'étouffée pour recréer une mini serre qui favorisera la croissance des racines. Tout cela en une heure à peine !
+
+Si vous avez la main verte vous êtes sûrement un-e habitué-e des boutures ! Vous savez, cette technique qui vise à multiplier les plantes en créant un nouveau plant à partir d'un morceau de votre plante (rameau, feuille, racine, etc.) ! Toutefois, peut-être n'avez-vous jamais entendu parler d'une méthode de bouture particulière que l'on nomme "à l'étouffée" ?
+
+Rien à voir avec la cuisine, quoi que ! Le principe est similaire. On parle de boutures à l'étouffée lorsque l'on couvre ces dernières avec un matériau transparent qui agit comme une mini serre et favorise la croissance des racines.
+
+L'association La Sauge a réalisé pour 18h39 un pas à pas pour en réaliser avec une bouteille en plastique :
+
+Outils et matériaux pour faire ses boutures à l'étouffée :
+* Une bouteille en plastique vide avec bouchon 
+* Du gros adhésif
+* Du sable 
+* Du terreau ou de la terre riche du jardin 
+* Une plante à bouturer (idées : groseille, cassis, thym, romarin, sauge)
+* Un sécateur
+* Un arrosoir
+
+. Choisir les plants mères en bonne santé. Couper les plants de 10 à 15 cm en biseau sur les plantes que l'on souhaite multiplier.
+. Effeuiller et détacher les feuilles en bas de la tige. Cela permet au plant de concentrer son énergie pour fabriquer de nouvelles racines. Couper le bourgeon apical (en haut de la tige) à 2 cm, en forme de biseau.
+. Dans un bol, mélanger du sable et du terreau. Découper une bouteille en plastique en deux, à mi-hauteur, et remplir la partie inférieure du mélange.
+. Bien humidifier la terre sans la saturer en eau.
+. Placer la bouture dans le terreau en l'enterrant un maximum, en faisant bien attention à laisser au moins 2 ou 3 nœuds à l'air libre pour favoriser l'apparition de bourgeons. 
+. Fermer la bouteille et fixer les deux parties avec de l'adhésif.
+. Laisser la bouture se développer dans un endroit aéré et lumineux, mais surtout pas en plein soleil. Dès que les premières feuilles apparaissent et qu'elles sont petites, dévisser légèrement le bouchon (sans l'ouvrir complètement), ou faire 3 petits trous dans la partie haute de la bouteille afin de réduire l'humidité dans la bouteille. Cela ne doit pas être trop brutal sinon les feuilles vont se dessécher et la bouture sera morte au bout d'un mois environ.
+. Quand les nouvelles feuilles sont suffisamment grandes, avant qu'elles ne commencent à toucher la paroi, ôter la partie supérieure de la bouteille.
+. Pour repiquer la bouture il faut couper la bouteille, pour éviter d'abimer les racines lors de l'extraction puis la mettre en terre. Et voilà !
+

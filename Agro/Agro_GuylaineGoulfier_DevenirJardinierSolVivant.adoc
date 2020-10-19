@@ -1,0 +1,102 @@
+= Agro : A propos de l'aggradation du sol
+Bernard Mayer
+v1.0, 2020-09-04: First draft
+:source-highlighter: coderay
+:sectnums:
+:toc: preamble
+:toclevels: 4
+:toc-title: ToC Agro > Sol > Introduction à la biologie du sol
+// Permet que la ToC soit numerotee
+:numbered:
+:imagesdir: ./img
+// :imagedir: ./MOS_Modelisation_UserCode-img
+
+:ldquo: &laquo;&nbsp;
+:rdquo: &nbsp;&raquo;
+
+:keywords: Resilience Agro
+:description: Je ne sait pas encore ce \
+    que je vais écrire ici...
+    
+----
+Introduction à la biologie du sol
+----
+
+
+// ---------------------------------------------------
+
+
+
+
+
+Trouvé sur le groupe facebook link:https://www.facebook.com/autosuffisant.oupresque/[]
+
+== Devenir un jardinier sol vivant acte 1
+(link:https://www.facebook.com/autosuffisant.oupresque/posts/807680533328604[])
+Par Guylaine Goulfier le 13 octobre 2020 10:48
+
+Bien sûr, il y a un bouquin à vendre, MAIS une astuce pour revenir à un prix raisonnable 
+
+link:https://www.facebook.com/autosuffisant.oupresque/posts/809261596503831[] +
+Suite à ma dernière publi, vous êtes plusieurs à me demander comment acquérir mon livre "Révolution au potager", qui n'est plus distribué en librairie depuis longtemps.
+Il se trouve à des prix dingues sur le marché de l'occasion : jusqu'à plus de 200€ !
+Je vend les exemplaires qu'il me reste, sur Rakuten, à 40€ (prix que j'ai augmenté en voyant certains de mes acheteurs se faire une marge en le revendant.
+Pour ceux qui sont intéressés, je propose une vente à prix libre et conscient (vous donnez ce que vous pensez être le prix juste pour cet ouvrage et soutenable pour vous, à partir de 26€).
+Mais comme je ne réserve cette possibilité qu'à vous, les fans de la page (l'occasion de "l'aimer" 😉 ), pour vous distinguer, **voici le code : activer l'option "posez une question" et écrivez ce que vous voulez mais glissez le mot "Autosuffisant".**
+
+
+DEVENIR UN JARDINIER SOL VIVANT 1
+
+Tout un monde sous nos pieds !
+Changer de regard sur sol et les plantes peut créer une vraie révolution dans nos techniques de jardinage . On comprend alors que mieux l'abandon du motoculteur, que la fertilisation même avec des produits naturels n'est pas une bonne idée, que la paille est le plus mauvais des paillages, que le compost est une levure, etc.
+
+image:AutoSuffisantOuPresque_0.png[racines, coupe superficielle terre]
+
+=== le sol naît, vit (et parfois meurt)
+
+À la base de tout sol : de la pierre, la « roche-mère ». Sous l’effet du vent (des intempéries, du gel…) elle s’altère puis se fragmente en particules de plus en plus petites : cailloux, gravillons, sables, limons, argiles puis éléments minéraux (phosphore, potasse…).
+
+Dès que le climat s’y prête, les végétaux s’invitent sur ce substrat minéral. Le lichen puis les mousses,les graminées et d’autres plantes pionnières y germent puis développent leur appareil racinaire dans les anfractuosités de la roche. En mourant ces végétaux forment une litière où se mêlent des cadavres et des déchets d’animaux, des feuilles mortes et des brindilles portées par le vent, etc.
+
+Une grande chaîne de recyclage démarre alors pour transformer cette matière organique. Une foule d’éboueurs (larves, collemboles, acariens…) la broie, la concasse et la fragmente. Les tissus végétaux mis à nu sont alors décomposés par des champignons et des bactéries en particules microscopiques jusqu’à élaborer une substance très particulière :l’humus
+
+image:AutoSuffisantOuPresque_1.png[roche mère arbres racines]
+
+=== attention précieux : l'humus
+
+L’humus est « colloïdal ». Il s’agglomère aux particules minérales, liant les sables entre eux et s’intercalant entre les feuillets d’argiles. C’est donc ce produit de la décomposition de la matière organique qui, en se mariant à la fraction minérale, constitue le sol, lui donne sa cohésion
+
+Ce n'est pas tout ! L’humus se comporte comme une éponge : non seulement il capte, retient l’eau et les éléments minéraux (empêchant leur lessivage, cet entraînement vers les nappes phréatiques) mais il les restitue en fonction des besoins des plantes C’est une substance garde-manger qui donne sa fertilité au sol.
+
+image:AutoSuffisantOuPresque_2.jpg[bel humus, terre bien noire]
+
+=== ATTENTION BIG DECOUVERTE la rhizodéposition
+
+Comment se nourrissent les plantes. Ce que l'on nous apprend c'est qu'elles pompent et puisent (épuisent) leur nutriments dans le sol. Passives. Et s'il en allait autrement ? Si c'étaient elles les grandes maîtresses du jeu ?
+
+Rhizodépo... Quézako ?
+Les racines des plantes prélèvent dans le sol de l’eau et des éléments minéraux. Cette solution, la sève « brute », circule dans l’appareil aérien des végétaux. Enrichie par les sucres issus de la photosynthèse, elle se transforme en sève « élaborée ». Or, une partie de celle-ci est exsudée par les racines. Il s’agit de la rhizodéposition.
+
+Cette substance qu’émettent les radicelles au fur et à mesure de leur croissance attirent à elles une impressionnante quantité de micro organismes qui sont viennent se chercher le carbone des composants de la rhizodéposition. Ils forment la rhizosphère.
+Prenons l’exemple des bactéries (des milliards par gramme de terre !). Pour fonctionner, elles ont besoin de carbone mais aussi de phosphore, de soufre, et autres éléments minéraux qu’elles captent dans le sol distant , celui qui n’est pas en contact avec les racines. Ces bactéries sont la proie de protozoaires et de nématodes et d’autres prédateurs. À leur tour mangés par des collemboles, des acariens... Qui font eux-mêmes le régal des taupes, limaces, des carabes, etc. Toute une chaîne alimentaire ! Lorsque les bactéries sont dévorées (ou qu’elles meurent), elles libèrent une partie des éléments minéraux qu’elles contiennent. Ils sont alors assimilés par les poils adsorbants des racines et composeront la sève brute.
+
+La plante mène le jeu
+Mais ce système subtil de réactions en chaîne ne doit pas faire oublier que tout dépend du végétal. C’est lui le metteur en scène génial de la rhizosphère, le donneur d’ordres. Que ses besoins en éléments minéraux changent, et la plante modifie immédiatement la composition de sa rhizodéposition ! Elle attirera alors de nouvelles populations microbiennes, celles qui lui apporteront le fer, la potasse, le sélénium dont elle a besoin.
+
+La plante enrichit le sol
+Que se passe-t-il pour les populations microbiennes devenues inutiles ? Ou les autres, lorsque la plante est récoltée ? Elles meurent, mais restent présentes dans le sol, maintenant dans leur corps les éléments minéraux captés dans le sol (on parle d’humus microbien). De petits sacs d’engrais en quelque sorte, potentiellement disponibles pour les cultures à venir.
+Cela signifie une chose très importante. Prenez une plante réputée gourmande en potasse, par exemple. On a toujours pensé qu’une telle plante épuisait le sol en potasse. C’est le contraire : elle l’enrichit ! Car, pour satisfaire ses besoins, elle a attiré et élevé des populations bactériennes qui non seulement ont prélevé l’élément minéral dans le sous-sol (une remontée des minéraux en quelque sorte, à l’inverse du fameux lessivage) mais qui le maintiennent présent dans la rhizosphère.
+
+image:AutoSuffisantOuPresque_3.jpg[Schéma de l'extrémité d'une racine]
+
+=== Les plantes mènent le jeu
+
+Nous jardiniers, nous connaissons généralement le cycle de la décomposition : les paillages mis sur le sol se dégradent pour fournir (un tout petit peu) d'élément minéraux mais surtout de l'humus. Mais on le voit sur ce dessin, ce cycle n'est pas complet.
+
+pour perdurer, le sol doit être en constante évolution, aussi bien en surface (par la décomposition de la matière organique) qu’en profondeur, par la dégradation de la roche-mère.
+
+Comment cette roche peut-elle se désagréger alors qu’elle est recouverte de terre ? Grâce à la rhizosphère ! Les racines – et tous les êtres vivants qu’elles attirent et mobilisent – émettent du dioxyde de carbone et divers acides organiques. Ces substances attaquent chimiquement la roche-mère qui libère alors des particules de plus en plus fines ainsi que des éléments minéraux et des oligo-éléments. Lesquels seront absorbés par des micro-organismes attirés par la rhizodéposition.
+
+On le voit : grâce à la rhizosphère le cycle est complet.
+
+image:AutoSuffisantOuPresque_4.jpg[schéma cycle racines bactéries oligo éléments]

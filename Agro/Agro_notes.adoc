@@ -1,6 +1,8 @@
 = Notes à propos de la chose agro: Et son sous-titre
 Bernard Mayer
-v1.0, 2020-08-31: First draft
+//v1.0, 2020-08-31: First draft
+v1.1, 2020-10-19: Allegement
+
 :source-highlighter: coderay
 :sectnums:
 :toc: preamble
@@ -26,15 +28,15 @@ Préambule avant ToC
 // ---------------------------------------------------
 
 == Forums jardinage
-* link:https://www.econologie.com/potager-paresseux-jardiner-sans-efforts-avec-foin/[https://www.econologie.com/potager-paresseux-jardiner-sans-efforts-avec-foin/]
-* link:https://www.econologie.com/forums/agriculture/le-potager-du-paresseux-jardiner-plus-que-bio-sans-fatigue-t13846.html[https://www.econologie.com/forums/agriculture/le-potager-du-paresseux-jardiner-plus-que-bio-sans-fatigue-t13846.html]
-* link:https://www.alsagarden.com/blog/le-potager-du-paresseux-de-didier-helmstetter/[https://www.alsagarden.com/blog/le-potager-du-paresseux-de-didier-helmstetter/]
-* link:https://forum.jardiner-malin.fr/[https://forum.jardiner-malin.fr/]
-* link:https://jardinierparesseux.com/[https://jardinierparesseux.com/]
+link:https://www.econologie.com/potager-paresseux-jardiner-sans-efforts-avec-foin/[https://www.econologie.com/potager-paresseux-jardiner-sans-efforts-avec-foin/]
+link:https://www.econologie.com/forums/agriculture/le-potager-du-paresseux-jardiner-plus-que-bio-sans-fatigue-t13846.html[https://www.econologie.com/forums/agriculture/le-potager-du-paresseux-jardiner-plus-que-bio-sans-fatigue-t13846.html]
+link:https://www.alsagarden.com/blog/le-potager-du-paresseux-de-didier-helmstetter/[https://www.alsagarden.com/blog/le-potager-du-paresseux-de-didier-helmstetter/]
+link:https://forum.jardiner-malin.fr/[https://forum.jardiner-malin.fr/]
+link:https://jardinierparesseux.com/[https://jardinierparesseux.com/]
 
 == Mon idée pour nettoyer Guillac :
 === Méthode poil dans la main
-Bâcher le sol, obscurcir avec du carton (sans encre/étiquette/scotch...) sous les bâches. Les bâches sont tenues avec des agrafes métalliques (dans du fer à béton)
+Bâcher le sol, obscurcir avec du carton (sans encre/étiquette/scotch...) sous les bâches. Les bâches sont tenues avec des agrafes métalliques (dans du fer à béton) et pailler abondamment (15 /20 cm)
 
 === Tortue vs lapin
 Tondeuse autoportée ? +
@@ -79,40 +81,7 @@ link:https://jardinonssolvivant.fr/le-sol-cet-inconnu/[]
 == PdT, patates, pommes de terre
 link:https://www.facebook.com/groups/1877816879123880/permalink/2697247077180852/[]
 
-== Planter des arbres fruitiers
-Pommes, noisettes, chataignes. +
-Impératif, des variétés rustiques de chez rustiques ; on ne sait pas s'en occuper, on est loin, on n'a pas le temps.
-
-=== En Bretagne
-* link:https://www.arbrofruit.fr/porte-greffes-jeunes-plants/[]
-
-=== Pommes
-* link:https://www.ericdumont.fr/catalogue-tarif-commande/les-pommiers/les-pommiers-couteau-hiver-longue-conservation/[]
-* link:https://www.jardiner-malin.fr/fiche/entretien-pommier.html[]
-* link:https://pepiniere-altitude.com/pommiers/[]
-* link:https://www.rustica.fr/fruits-et-verger/pommier-sans-traitement,9093.html[]
-* link:https://www.pepinieres-naudet.com/boutique/76-pommier[]
-* link:https://www.facebook.com/groups/166746387296503/permalink/663010927670044/[] J ai découvert une pépinière vendredi dernier à Peillac dans le 56. C est un jeune qui est passionné et qui propose de commander ce que l on veut
-
-=== Noisettes
-* link:https://www.journaldesfemmes.fr/jardin/encyclopedie-plantes/2412920-noisetier/[]
-
-=== Chataigniers
-* link:https://www.pepinieredubosc.fr/chataigniers-noisetiers-2/[]
-* link:https://www.jardiniers-professionnels.fr/comment-planter-et-entretenir-un-chataignier/[]
-
-== Planter des céréales ?
-* link:./doc/Agro_Seigle-Wikipedia.pdf[]
-* link:https://jardinage.lemonde.fr/dossier-1484-seigle.html[] 
-* link:./doc/Agro_Seigle-jardinage-LeMonde.adoc[]
-* link:https://www.universalis.fr/encyclopedie/seigle/1-une-cereale-plus-rustique-que-le-ble/[] 
-* link:./doc/Agro_Seigle-universalis.adoc[]
-* link:https://jardinonssolvivant.fr/produit/seigle-fourrager/[]
-* link:https://www.fermedesaintemarthe.com/A-15016-seigle-perenne-ab-250-g.aspx[]
-
 
 == Biblio du Bec Hellouin
 Peut être bien amélioré... Rotation, OCR, (reprise à la main ?) +
 link:./doc/Agro_BecHellouin2014_Biblio.pdf[]
-
-

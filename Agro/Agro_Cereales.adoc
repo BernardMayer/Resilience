@@ -1,0 +1,36 @@
+= Notes à propos de la chose agro: Et son sous-titre
+Bernard Mayer
+v1.0, 2020-08-31: First draft
+:source-highlighter: coderay
+:sectnums:
+:toc: preamble
+:toclevels: 4
+:toc-title: ToC
+// Permet que la ToC soit numerotee
+:numbered:
+:imagesdir: ./img
+// :imagedir: ./MOS_Modelisation_UserCode-img
+
+:ldquo: &laquo;&nbsp;
+:rdquo: &nbsp;&raquo;
+
+:keywords: Resilience Agro
+:description: Je ne sait pas encore ce \
+    que je vais écrire ici...
+    
+----
+Préambule avant ToC
+----
+
+
+// ---------------------------------------------------
+
+
+== Planter des céréales ?
+* link:./doc/Agro_Seigle-Wikipedia.pdf[]
+* link:https://jardinage.lemonde.fr/dossier-1484-seigle.html[] +
+link:./doc/Agro_Seigle-jardinage-LeMonde.adoc[]
+* link:https://www.universalis.fr/encyclopedie/seigle/1-une-cereale-plus-rustique-que-le-ble/[] +
+link:./doc/Agro_Seigle-universalis.adoc[]
+* link:https://jardinonssolvivant.fr/produit/seigle-fourrager/[]
+* link:https://www.fermedesaintemarthe.com/A-15016-seigle-perenne-ab-250-g.aspx[]
