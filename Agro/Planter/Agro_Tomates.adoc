@@ -1,0 +1,104 @@
+= Planter des tomates...
+Bernard Mayer
+v1.0, 2020-08-31: First draft
+:source-highlighter: coderay
+:sectnums:
+:toc: preamble
+:toclevels: 4
+:toc-title: ToC
+// Permet que la ToC soit numerotee
+:numbered:
+:imagesdir: ./img
+// :imagedir: ./MOS_Modelisation_UserCode-img
+
+:ldquo: &laquo;&nbsp;
+:rdquo: &nbsp;&raquo;
+
+:keywords: Resilience Agro
+:description: Je ne sait pas encore ce \
+    que je vais écrire ici...
+    
+----
+Préambule avant ToC
+----
+
+
+// ---------------------------------------------------
+
+== TUTO TOMATE par Perceval le paysan gaulois
+
+link:https://www.facebook.com/permalink.php?story_fbid=972608296540621&id=100013743780137[]
+
+Partage de connaissances, observations, techniques....Ce que nous avons remarqué en 8 ans de permaculture et notre manière de faire dans les grandes lignes.
+Premièrement nous ne retournons plus la terre, pour planter, un simple trou assez profond de manière à ce que les racines soient bien enfouies et protégées des variations de températures et des stress hydriques.
+
+=== JANVIER
+ Mais avant cela nous préparons la terre en début d'année, c'est à dire que chaque année nous déposons 10 cm de fumier de poules au mois de Janvier, soit environ 4 mois avant la plantation. D'autres fumiers feraient l'affaire, mouton, chevaux ect...
+Et c'est tout!!!!
+En tout cas pour la préparation de la terre...
+NB: Votre terre ne sera pas dès la 1ère année à son maximum, ils nous a fallut 3 ans pour avoir de belles récoltes...
+Cependant la première année, selon votre terre de départ, il peut être nécessaire de labourer et de lui apporter ce qui lui manque, nous développerons dans un autre tuto.
+
+=== FEVRIER/MARS
+Ensuite en février nous commençons les 1er semis à partir de graines, nos graines, récoltées sur les plus beaux plants de l'année précédente de manière à améliorer la génétique de nos graines d'années en années.
+Si vous n'êtes pas certain de pouvoir planter au jardin début Avril retardez ce moment de la germination en fonction. Ils vous faudra mini 18/20 degré le jour et 15 la nuit lors du passage au jardin. Et les laisser trop longtemps sous serre à stagner dans les pots de 13x13 en attendant ces températures n'est pas bénéfique.
+Les graines une fois germées dans l'eau au chaud sont plantées en pot de 7cmx7cm environ pour 1 petit mois toujours au chaud à 25 degrés dans du terreau spécifique, assez cher, qui se nomme biobizz light mix, commandable sur le net ou en boutique spécialisée pour les jardin d'intérieur.
+Nous avons fait ce choix après de multiples essais sur différents terreaux, c'est le seul qui nous apporte ces résultats.
+ Les semis sont forts et ne connaissent pas de phases creuses, ça ne fait que pousser. Si vous deviez en prendre d'autres prenez du terreau dit léger, pas très fort, terreau à semi.
+Niveau arrosage, après un premier arrosage suite à la mise en pot, c'est selon les besoins des plantes...certaines piquent du nez rapidement par manque d'eau , d autres moins...Nous limitons l'arrosage au maximum et attendons que la plante montre un signe de manque, ce qui a pour résultat de bien développer les racines.
+Arrosez si besoin en petite quantité.
+N'exposez pas vos petits plants au soleil direct la 1ere semaine, de la lumière du jour leurs suffira.
+Le soleil direct derrière une vitre les brûlerait. Et même ensuite ensuite attention, derrière une vitre ça chauffe fort par moment.
+Nous, nous les démarrons sous lampe cfl de 250w couleur froide spécial croissance 6000k/6400k, et ce pendant tout ce temps en petit pot de 7x7. Si vous souhaitez également démarrer sous lampe une puissance moindre fonctionne aussi, mais plus ils auront de watts, plus beau ils seront à la fin de ce 1er mois.
+
+=== MARS/AVRIL
+Ce premier mois passé, nous repiquons en serre froide, dehors, et ici dans le var, en mars il fait environ 15/20 degrés, c'est juste suffisant , mais ça passe.
+Nous repiquons cette fois ci dans un terreaux bien plus puissant, de la même marque mais de gamme différente : biobizz allmix.
+Vu le prix et les quantités nécessaires nous le coupons à 50% avec la terre du jardin qui est très argileuse, argilo/calcaire pour être précis.
+Puis nous arrosons une 1ère fois.
+Ils restent dans ce mélange environ 1 mois, voir 1 mois et demi dans des pots de 13cm x13 .
+Niveau arrosage , en serre froide, les besoins sont minimes, la rosée du matin faisant le boulot il est très rare d'avoir besoin d'en rajouter.
+
+=== AVRIL/MAI                
+Les plants font maintenant 50 à 70cm et nous sommes début avril.
+c'est à cette époque que nous les plantons au jardin, il fait 20/25 degrés chez nous dans le var, si ce n'est pas encore le cas chez vous (20/25 degrés), attendez pour planter. Surveillez également la température nocturne qui doit être au minimum 13/15 degré.
+Un simple trou assez profond de minimum 25 cm, avec dans le fond une ou deux poignées de terreaux allmix biobizz en mélange avec un peu de terre et le reste juste la terre du jardin et un 1er arrosage.
+Nous ne coupons pas les gourmands, après différents tests comparatifs c'est une étape qui s'avère inutile car aucune différence n'a été remarqué.
+Vu les températures assez basses, les plantes ont toujours très peu besoins d'eau donc nous n'arrosons pas, ou très peu.
+Si vous le pouvez, espacez vos plants, laissez leurs de quoi ce développer. Nous mettons un bon mètre et demi , voir 2 entre chaque.1 mètre sera le minimum.
+
+=== MAI/JUIN
+Un mois plus tard soit en mai, voir mi mai, voir début juin, selon les années , après les dernières pluies en fait, nous paillons les jardins exposés en plein soleil, et ne le faisons pas sur ceux à l'ombre qui eux auront à cette époque un tapis de mauvaises herbes qui fera le même boulot.
+Ce paillage permet de garder l'humidité et de très peu arroser plus tard. Cela permet également à la vie de ce développer sous ces tapis, naturels ou de pailles, et vos plantes vous remercieront ...
+Les mauvaises herbes sont nos alliées car elles captent la rosée du matin et gardent le sol frais donc aucun désherbage.
+
+=== JUIN
+Nous sommes en juin, il est temps de poser les tuteurs, pas avant, cela permet au plantes d avoir des troncs forts.
+A la même époque nous coupons les branche basses sur une trentaine de cm pour éviter le contact avec le sol.
+Et on arrive à la fin du travail de préparation....plus qu'à patienter, environ encore 1 mois pour voir les première tomates surgir et passer du vert au rouge.
+Seuls quelques arrosages sont nécessaires par la suite,  un minimum...Contrairement à ce que l'on pourrait penser, les plantes n'ont pas besoins de nous, ou très peu.
+Quand le jardin à soif, ça se voit, les plantes piquent du nez, mais c'est rare.
+Pour exemple cette année 2020 nous avons arrosé que 9 fois les jardins les plus exposés au soleil et 7 fois ceux à l'ombre.
+Observations diverses : 
+-pour lutter contre les moucherons et mouches blanches ainsi que d 'autres ravageurs plantez entre chaque pieds des œillet d'inde, du basilic, des orties.
+-profitez des espaces restant entre chaque plants en plus des œillet d'inde et orties ou basilic pour mettre des salades, des piments ou pleins d'autres choses afin de ne pas perdre cette place.  Mais pas de cucurbitacée. 
+-Planter à mi ombre voir ombre n'est pas gênant dans les régions chaude, mais ne pas pailler.
+-Ne pas planter le long d'un mur qui gardera la chaleur et fera cuir plantes et racines.
+-Ne pas associer tomates et courgettes ,ni courges. Tenez ces dernières à distances (5/10 mètres mini), car souvent sujettes à l'oïdium, elles le transmettrons aux tomates (malgré qu'il parait que non, que c'est pas le même oidium, nous avons, nous, remarqué cela).
+Traitement en cas d'oïdium : bicarbonate de soude, huile minérale, et savon de Marseille après chaque grosse pluie ou purin de prêle (moins efficace).
+-Créer votre système d'arrosage de façon à n'arroser vraiment que le sol. Nous avons opté pour un simple tuyau d'arrosage traditionnel, percé à chaque plante , et enfoui sous la paille ou la terre. De multiples trous de façon à ce que si l'un ce bouche d'autres soient là.
+-Espacer au maximum les arrosages est primordial et vous évitera les maladies.
+Voilà quelques bases pour commencer un beau jardin, à accommoder à votre sauce, selon votre terrain, vos possibilités, votre région et vos envies...
+A savoir, l'ensemble de ce texte ne sont que nos observations personnelles, nous n'affirmons rien car ne savons finalement rien...simplement nous faisons ainsi donc on partage....
+Des vidéos de nos expériences sont dispo sur notre mur : link:https://www.facebook.com/profile.php?id=100013743780137[] 
+
+* jardin 1 plein soleil et paillage, arrosage restreint
+* jardin 2 ombre sans paillage, arrosage restreint
+* jardin 3 le contre exemple, plein soleil, pas de paillage, arrosage traditionnel (1 à 2 fois/semaine) à partir de mi juillet.
+
+N'hésitez pas à nous demander en amis si ce n'est déjà fait et à partager nos publications.
+Les graines de nos plants sont enfin dispo à présent pour ceux qui nous les réclamaient.
+link:https://www.facebook.com/permalink.php?story_fbid=971559806645470&id=100013743780137[]
+Nous continuerons encore les semis cette année à partir de mars /avril pour les gens du coin.(var est)
+Et pour finir , nous sommes toujours ouvert aux échanges si vous avez des variétés que nous n'avons pas, uniquement en graines non hybride, non f1.
+

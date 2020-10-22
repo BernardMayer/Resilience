@@ -1,8 +1,6 @@
 = Notes à propos de la chose agro: Et son sous-titre
 Bernard Mayer
-//v1.0, 2020-08-31: First draft
-v1.1, 2020-10-19: Allegement
-
+v1.0, 2020-08-31: First draft
 :source-highlighter: coderay
 :sectnums:
 :toc: preamble
@@ -28,15 +26,15 @@ Préambule avant ToC
 // ---------------------------------------------------
 
 == Forums jardinage
-link:https://www.econologie.com/potager-paresseux-jardiner-sans-efforts-avec-foin/[https://www.econologie.com/potager-paresseux-jardiner-sans-efforts-avec-foin/]
-link:https://www.econologie.com/forums/agriculture/le-potager-du-paresseux-jardiner-plus-que-bio-sans-fatigue-t13846.html[https://www.econologie.com/forums/agriculture/le-potager-du-paresseux-jardiner-plus-que-bio-sans-fatigue-t13846.html]
-link:https://www.alsagarden.com/blog/le-potager-du-paresseux-de-didier-helmstetter/[https://www.alsagarden.com/blog/le-potager-du-paresseux-de-didier-helmstetter/]
-link:https://forum.jardiner-malin.fr/[https://forum.jardiner-malin.fr/]
-link:https://jardinierparesseux.com/[https://jardinierparesseux.com/]
+* link:https://www.econologie.com/potager-paresseux-jardiner-sans-efforts-avec-foin/[https://www.econologie.com/potager-paresseux-jardiner-sans-efforts-avec-foin/]
+* link:https://www.econologie.com/forums/agriculture/le-potager-du-paresseux-jardiner-plus-que-bio-sans-fatigue-t13846.html[https://www.econologie.com/forums/agriculture/le-potager-du-paresseux-jardiner-plus-que-bio-sans-fatigue-t13846.html]
+* link:https://www.alsagarden.com/blog/le-potager-du-paresseux-de-didier-helmstetter/[https://www.alsagarden.com/blog/le-potager-du-paresseux-de-didier-helmstetter/]
+* link:https://forum.jardiner-malin.fr/[https://forum.jardiner-malin.fr/]
+* link:https://jardinierparesseux.com/[https://jardinierparesseux.com/]
 
 == Mon idée pour nettoyer Guillac :
 === Méthode poil dans la main
-Bâcher le sol, obscurcir avec du carton (sans encre/étiquette/scotch...) sous les bâches. Les bâches sont tenues avec des agrafes métalliques (dans du fer à béton) et pailler abondamment (15 /20 cm)
+Bâcher le sol, obscurcir avec du carton (sans encre/étiquette/scotch...) sous les bâches. Les bâches sont tenues avec des agrafes métalliques (dans du fer à béton)
 
 === Tortue vs lapin
 Tondeuse autoportée ? +
@@ -76,12 +74,30 @@ https://josselin-motoculture.com/locations-2/location-de-materiel-de-motoculture
 https://www.blanchardagriculture.com/materiels-espaces-verts/p17647
 
 == Sol
-link:https://jardinonssolvivant.fr/le-sol-cet-inconnu/[]
+* link:https://jardinonssolvivant.fr/le-sol-cet-inconnu/[]
+* link:./ReconnaitreTypeDeSol/Agro_Sol_notes.adoc[]
+
+=== Engrais verts
+* link:./Planter/Agro_EngraisVerts.adoc[]
 
 == PdT, patates, pommes de terre
-link:https://www.facebook.com/groups/1877816879123880/permalink/2697247077180852/[]
+* link:https://www.facebook.com/groups/1877816879123880/permalink/2697247077180852/[]
+
+== Tomates
+* link:./Planter/Agro_Tomates.adoc[]
+
+== Planter des céréales ?
+* link:./doc/Agro_Seigle-Wikipedia.pdf[]
+* link:https://jardinage.lemonde.fr/dossier-1484-seigle.html[] 
+* link:./doc/Agro_Seigle-jardinage-LeMonde.adoc[]
+* link:https://www.universalis.fr/encyclopedie/seigle/1-une-cereale-plus-rustique-que-le-ble/[] 
+* link:./doc/Agro_Seigle-universalis.adoc[]
+* link:https://jardinonssolvivant.fr/produit/seigle-fourrager/[]
+* link:https://www.fermedesaintemarthe.com/A-15016-seigle-perenne-ab-250-g.aspx[]
 
 
 == Biblio du Bec Hellouin
 Peut être bien amélioré... Rotation, OCR, (reprise à la main ?) +
 link:./doc/Agro_BecHellouin2014_Biblio.pdf[]
+
+

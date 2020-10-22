@@ -1,0 +1,91 @@
+= Les engrais verts...
+Bernard Mayer
+v1.0, 2020-08-31: First draft
+:source-highlighter: coderay
+:sectnums:
+:toc: preamble
+:toclevels: 4
+:toc-title: ToC
+// Permet que la ToC soit numerotee
+:numbered:
+:imagesdir: ./img
+// :imagedir: ./MOS_Modelisation_UserCode-img
+
+:ldquo: &laquo;&nbsp;
+:rdquo: &nbsp;&raquo;
+
+:keywords: Resilience Agro
+:description: Je ne sait pas encore ce \
+    que je vais écrire ici...
+    
+----
+Préambule avant ToC
+----
+
+
+// ---------------------------------------------------
+
+== Tuto Engrais verts par Perceval le paysan gaulois
+
+link:https://www.facebook.com/permalink.php?story_fbid=984110868723697&id=100013743780137[]
+
+Une culture intermédiaire facile et bénéfique à votre potager !
+Semer de l'engrais vert
+
+A l'heure où le potager semble s'endormir, où les pommes de terre sont en cagettes à la cave et où les dernières tomates tentent de finir de mûrir, c'est le moment d'avoir le réflexe « engrais vert ». De quoi s'agit-il ? Tout simplement d'une culture intermédiaire qui permet au sol de se reminéraliser et de se restructurer avant d'accueillir de nouveaux légumes au printemps suivant. En effet, et on l'oublie trop souvent, un sol en bonne santé est le garant de cultures gourmandes et bien portantes ! Et pour entretenir son sol, le jardinier peut faire appel à du fumier, du compost ou à de l'engrais vert. L'avantage de ce dernier ? Il est accessible à tous, moyennant quelques euros, et surtout il a pour avantage d'empêcher la pousse des mauvaises herbes pendant le temps où il est en place. 
+
+Enfin, la plupart des plantes utilisées en engrais verts ont une floraison charmante, et il existe des variétés adaptées à chaque sol et chaque saison.
+
+Les différentes familles et espèces d'engrais verts ont chacune des atouts qui leur sont propres ; en croisant ces données aux contraintes de culture de votre potager vous pouvez identifier les engrais verts les mieux adaptés à votre situation.
+
+Ces contraintes de culture sont : +
+*La nature du sol :* bien que beaucoup d'engrais verts s'adaptent à la plupart des sols, certains ont des exigences particulières et poussent mal sur certains types de terres. + 
+*La rotation des cultures :* l'utilisation des engrais verts (généralement semés entre deux cultures) doit tenir compte de la culture précédente et de la culture suivante : on ne cultive pas un engrais vert après ou avant une culture appartenant à la même famille botanique (exemple : la moutarde appartient à la même famille que le chou, celle des Brassicacées ; ces deux plantes ne devront pas se suivre sur une même planche de culture), mais la culture d'un engrais vert appartenant à la famille des légumineuses est conseillée comme précédent cultural à un légume dont les besoins en azote sont importants . +
+*La durée d'interculture :* une durée d'interculture courte (printemps, été) n'autorise pas l'utilisation d'un engrais vert au cycle végétatif long. +
+*La date des semis :* certaines espèces sont sensibles au froid ou à la sécheresse. La météo peut donc influer sur le développement de ces engrais verts.
+
+Parmi la multitude de plantes susceptibles d'être utilisées en engrais vert, vous aurez le choix ! Pour vous décider en connaissance de cause, sélectionnez un engrais adapté à la période dans laquelle vous vous trouvez. Vous pouvez aussi prendre en compte la nature de votre sol (voir notre tuto "analyse de la terre"), sachant que ce critère est presque secondaire dans la mesure où les engrais verts les plus courants (moutarde, phacélie, trèfle...) conviennent à tous les types de sols. + 
+Par exemple, c'est la fin des haricots, heu, des pommes de terre ! Après une culture aussi gourmande, il est bienvenu de laisser le sol se reposer tout en lui apportant de quoi « reprendre des forces ». Nous sommes alors en septembre/octobre selon région, et notre choix se porte sur le trèfle rouge. + 
+Il n'est pas nécessaire de bêcher le sol avant de semer un engrais vert, au contraire. Il suffit, une fois la précédente récolte retirée, de niveler le sol avec un râteau . Si besoin, retirez les pierres et les mauvaises herbes que vous rencontrerez.
+
+En vous rapportant aux indications du paquet, mesurez le volume de graines nécessaires à la parcelle sur laquelle vous le semez. Evitez d'avoir la main lourde. Vous n'enrichirez pas davantage votre sol ainsi, le risque étant plutôt de compromettre le bon développement des plants par une trop forte densité au centimètre carré 
+
+Le semis d'engrais vert s'effectue à la volée sur la terre précédemment nettoyée et nivelée. Recouvrez le sol de façon uniforme. +
+Tassez le sol de façon à bien installer les graines dans le sol et favoriser ainsi leur levée. Pour cela, utilisez un rouleau ou, à défaut, tassez avec le dos de votre râteau. +
+Rien de tel qu'une petite pluie – naturelle ou pas – pour enclencher le processus de germination.
+
+La plupart des engrais verts ont la capacité d'étouffer les « mauvaises » herbes. Pendant leur croissance, vous n'aurez ainsi rien d'autre à faire que de les regarder pousser ! La croissance étant généralement rapide, surveillez l'apparition des premières fleurs.
+
+Si vous les laissez grainer, alors l'engrais se ressèmera naturellement au risque de devenir un peu envahissant.
+Dans le cas de la phacélie, c'est un risque qui peut se prendre et même s'assumer tant la fleur est jolie !
+Qui plus est, la plupart des fleurs des engrais verts sont prisées des butineurs. Enfin, laisser la plante arriver à l'état de graine permet de récupérer de la semence pour les années suivantes. 
+Au final, si on met de côté l'inconvénient du semis non contrôlé, il est plutôt intéressant de laisser venir les fleurs !
+
+Une fois l'engrais arrivé à maturité, il vous faudra le couper avant de l'enfouir.
+Pour cela, vous pourrez utiliser une simple binette, une faux ou même une tondeuse . A noter que, dans le cas des engrais installés pendant la période hivernale, le gel vous aidera en détruisant en partie la plante. Il ne vous restera plus qu'à l'enfouir.
+Une fois coupé, laissez votre engrais vert sécher au sol. Cette étape est importante car, une fois incorporées dans le sol, des matières encore vertes risquent de fermenter et de mal se dégrader, alors que les mêmes matières, une fois sèches, seront facilement détruites par les éléments naturels et les micro-organismes présents dans le sol.
+
+Une fois les matières bien sèches, il s'agit de les enfouir dans le sol. Pour cela, utilisez une fourche, une grelinette ou un motoculteur réglé très peu profond, en fonction de la superficie de votre terrain et de l'effort que vous êtes prêt à consentir !
+
+Quelques mois ont passé, l'engrais vert enfoui précédemment est à présent bien décomposé. Il a non seulement enrichi votre sol mais aussi amélioré sa texture grâce à l'important réseau racinaire de ses plantes et au travail des micro-organismes chargés de « digérer » les matières présentes dans le sol. La terre demande juste à être légèrement ameublie avant d'accueillir la culture suivante. Et quelle qu'elle soit, une fois celle-ci terminée, pensez à renouveler le cycle en semant à nouveau l'engrais vert de votre choix !
+
+Voila pour les engrais vert et ce que nous en savons...
+N'hésitez pas à nous suivre et demander en amis si ce n'est déjà fait.
+Nous avons quelques vidéos sur notre mur du suivi 2020 de nos propres jardins, qui peuvent en aider certains.
+D'autres tutos sont également présent sur notre mur, notamment : "comment récupérer ses graines facilement", "analyse de la terre"  et "tuto tomates".
+Par la suite nous en mettrons de nouveaux. Petit à petit car cela demande du temps.
+
+=== Flo Le Tantsaha
+
+Alors nous en engrais verts tip top on a : 
+
+. en couverture du sol :
+* arachis repens (plutôt humide et riche)
+* stylosanthes (pauvre sec et acide)
+* un mimosa rampant (pas encore trouvé le nom de l'espèce) hyper productif
+. en haie vive:
+* vernonia (ambiaty)
+* tephrosia (top pour sols.pourris acidespauvres et secs)
+* tithonia (2x plus riche que du fumier de vache, se décompose en une semaine, pérenne, produit entre 1 et 3 tonnes de MO sur 150m2)
+
+Et une plante qu'il y a des nous l'ageratum conizoides que tout le monde connaît mais que personne ne connait. 3 a 4 fois plus riche que du fumier de vache, insecticide surtout contre les chenilles, fongicide, C/N tres faible.
