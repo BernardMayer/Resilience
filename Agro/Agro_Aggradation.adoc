@@ -29,14 +29,14 @@ Faire connaissance d'un sol, réparer son éventuelle dégradation.
 Un chapitre spécifique : +
 link:./ReconnaitreTypeDeSol/[vers le répertoire dédié]
 
-Une vidéo YT de ver de terre production 
+== Une vidéo YT de ver de terre production 
 {ldquo}Les bases des plantes bio-indicatrices{rdquo}
 , par le Jardin d'Emerveille +
 link:https://www.youtube.com/watch?v=qnamBi4ojBs&feature=youtu.be[]
 
-Une intervention sur le groupe FB +
+== Une intervention sur le groupe FB 
 link:https://www.facebook.com/groups/MaraichageSolVivant/permalink/2961105390662041/?[] +
-Léa Jahan -> Maraichage sol vivant (MSV)
+Léa Jahan -> Maraichage sol vivant (MSV) +
 Bonjour à tous 
 A force de lire vos différentes publications et questions/réponses je me rends compte à quel point je suis novice! Du coup plusieurs questions me viennent:
 Comment faire un état des lieux de notre terrain? Comment savoir exactement a quelle terre nous avons affaire? J'imagine que c'est la base pour savoir comment la nourrir au mieux. 
@@ -60,6 +60,45 @@ Une autre approche complémentaire est l'analyse directe de tes sols
 .Sylwi Llems
 Étaler du compost meme incompletement décomposé sur des cartons bruns sans encre installés sur le sol. 
 Les vers de terre vont travailler la dessous bien au chaud et dans l'humidité tout l'hiver et ameublir le sol et l'enrichir.
+
+
+== Peut-on faire monter un sol en MO avec seulement des engrais vert ?
+
+link:https://www.facebook.com/groups/MaraichageSolVivant/permalink/3110343849071527/[]
+
+.Romain Tessier
+Bonjour, petite question si on ne possède pas les moyens matériels et financier pour faire venir du brf, ou du composte végétal ou de la paille. Peut-on faire monter un sol en MO avec seulement des engrais vert ? Est t'il envisageable en msv d'utiliser seulement des engrais vert ?
+
+les élagueurs se débarassent parfois gratuitement de leur broyat , il n'y a pas besoin de matériel ni d'argent pour en avoir , mais juste des engrais verts marchent oui
+
+c'est possible mais il va te falloir du temps. de plus, tu va devoir maitriser les biomax pour choisir les bons mélanges et savoir les laisser "lignifiés".
+
+Allez chercher du fumier dans les centres équestres
+
+Bien entendu toute la recherche aujourd’hui se situe sur la sélection de plantes qui apportent le maximum de bio masse. On ne peut pas piller les champs du voisins pour faire pousser nos légumes. 
+
+Tout dépend des moyens dont tu parles. J'ai acheté 30m3 de broyat de pommiers à un voisin pour 200€, combien de semences, et à quel prix, aurait il fallu pour produire un équivalent ?
+Je ne fais pas d'engrais vert car je n'ai pas de parcelles libres en été, et en hiver, il y a trop peu de production.
+La seule solution pérenne et peu coûteuse est la jachère d'herbe spontanée, et l'utilisation de bâches pour la détruire.
+
+Tu ne peux, en aucun cas, comparer brf et biomax.
+par contre, les deux sont intimement complémentaire. je ne fait pratiquement jamais un brf sans y implanter un couvert.
+
+Concrètement, je laisserai le terrain jusqu'en mai faire pousser ce que ça veut dessus. Un coup de débroussailleur dedans, et j'y mettrai un maïs direct. Alors soit tes bon et tu le sème en semis direct. Soit tes pas bon comme moi et je passe un coup de motoculteur rapide pas profond juste pour avoir un peu de terre et je sème la dedans.
+Le maïs c'est cool, grosse biomasse, tu prend les épis tu laisse tout le reste à ta terre. Après le démarrage du maïs, sème une fabacées aussi. Haricot blanc par exemple qui grimpe sur le maïs.
+Variante possible avec du tournesol mais c'est plus délicat au démarrage de la culture.
+Une fois prêt, en septembre octobre, tu fou tout ça au sol, et tu jette un seigle ou un blé.
+Mois de mai suivant, tu couche tout. Deja la non seulement t'aura fait ton paillage, yaura de la racine aussi. Et dedans tu peut implanter ton potager.
+Je conseille de balancer une céréale en fin de saison même si elle te fait pas de grains ça fais de loccupation l'hiver et ça te fait le paillage pour la saison suivante. Peu importe semences naturelles ou non hein.
+Ça vaut ce que ça vaut j'ai pas la science en infusion 
+
+Je me suis fait livrer 30m3 de déchets verts broyés pour 80€.
+Si t'as la place tu peux cultiver un EV sur une planche sur 2. Sinon, à défaut de place, même en interculture sur tes planches.
+
+Je vise cette piste car je souhaite être autonome en intrants. Je vais planter des arbres qui me feront un apport carboné lors de la taille. Cela va prendre du temps, mais il faut bien commencer à un moment. Je crois même qu'il y en a qui vont la chercher en forêt, mais ça fait du boulot.
+
+Demande au déchetteries moi je récupère du broyat de déchets vert gratuit en caisson de 35m2
+
 
 
 == Annexes
