@@ -1,0 +1,101 @@
+= Semer des graines...
+Bernard Mayer
+v1.0, 2020-10-28: First draft
+:source-highlighter: coderay
+:sectnums:
+:toc: preamble
+:toclevels: 4
+:toc-title: ToC
+// Permet que la ToC soit numerotee
+:numbered:
+:imagesdir: ./img
+// :imagedir: ./MOS_Modelisation_UserCode-img
+
+:ldquo: &laquo;&nbsp;
+:rdquo: &nbsp;&raquo;
+
+:keywords: Resilience Agro
+:description: Je ne sait pas encore ce \
+    que je vais écrire ici...
+    
+----
+Préambule avant ToC
+----
+
+
+// ---------------------------------------------------
+
+== TUTO SEMIS par Perceval le paysan gaulois
+
+link:https://www.facebook.com/permalink.php?story_fbid=990184098116374&id=100013743780137[]
+
+Semer une graine ne s’improvise pas ! 
+
+En effet, vous devez suivre plusieurs étapes particulièrement importantes, qui détermineront la réussite ou non de votre germination et de la croissance de vos plantes. C’est pour cette raison qu’il est préférable de bien vous renseigner pour ne pas commettre d’erreur. Perci vous donne quelques astuces !
+
+== Tout d'abord, les fondamentaux.
+
+Réussir son semis n’est pas compliqué, il faut avant tout savoir ce dont les plantes ont besoin pour germer. 
+Cela se résume à trois choses : de la chaleur (autour de 20° 25° en général), de l’humidité pour sortir la graine de son sommeil et un substrat. +
+L’idéal pour un débutant est de réaliser son premier semis en intérieur dans un petit pot ou dans l'eau directement. 
+Au printemps et en été il est aussi tout à fait possible de réaliser son semis directement en pleine terre (à éviter sur terre argileuse). 
+Donc pour résumer, jusqu'à ce qu'elle germe, la graine à besoin de chaleur, d'humidité et d'un substrat ( si ce n'est pas de l'eau).
+Ce substrat dans lequel vous allez réaliser votre semis est important. 
+Il ne doit pas nécessairement être trop enrichi en nutriment, cela pourrait compliquer la croissance de votre plante qui a besoin dans un premier temps de développer son système racinaire. 
+Prélevez de la terre de jardin si elle n'est pas trop lourde ( argileuse) ou achetez du terreau pour semis (on conseillera biomix lightmix). 
+
+Cela fera parfaitement l’affaire pour réaliser votre semis. 
+
+== Passons à la pratique : 
+
+C’est la taille de votre graine qui va déterminer à quelle profondeur l’enfoncer dans la terre ou le terreau. 
+De manière générale, retenez que la profondeur du semis doit être égal à 3 fois le diamètre de la graine. 
+
+== Profondeur du semis
+
+Vous avez une graine minuscule ? +
+Appliquez une fine couche de terreau en surface.
+A l’inverse, à titre d’exemple, une graine de fève pourra être semée à 3 cm de profondeur.
+Il faut pour cela faire un trou (avec un crayon par exemple), d’environ trois fois la grosseur de la graine. 
+Puis, rebouchez le trou à la main, et tassez légèrement la terre. Ensuite, arrosez l’ensemble mais avec un jet peu puissant pour ne pas déloger vos graines. 
+Si vous n’avez pas d'arrosoir vous pouvez en fabriquer un très facilement à l’aide d’une bouteille d’eau en plastique et une aiguille.
+Ensuite, vous devrez surveiller la germination...
+
+Une fois que votre graine est semée, ou qu'elle est dans l'eau si cette méthode à été choisie, ce n’est que le début de l’aventure !
+Si elle est dans l'eau dès qu'elle aura germée, attendez qu'elle fasse 2à 3mm puis placez là dans le terreau comme expliqué plus haut, en mettant le germe bien sûr vers le haut, soit à peine sous la surface, soit si vous êtes plus habile en laissant dépasser du sol que le germe en tassant tout doucement autour pour reboucher le trou. 
+Si un peu de terreau c'est déposé sur le germe ce n'est rien , il trouvera rapidement son chemin.
+
+== Eau et éclairage
+
+Pour en arriver à ce stade si vous vous avez démarré directement en terreau arrosez régulièrement vos graines mais en quantité limitée, l’objectif étant d’avoir une terre humide mais pas détrempée. 
+Au bout de quelques jours, plusieurs pousses devraient apparaître : surtout, ne touchez à rien ! 
+Il faut les laisser se développer. 
+
+C'est là que le besoin de lumière devient important... Soit vers une fenêtre n'étant pas directement exposée au soleil, soit sous lumière artificiel (néon, lampe basse tension, cfl ect...toute lumiere blanche environs 6000 lumens)
+S'ils se mettent à filer, donnez leurs plus de lumière. 
+Plus de watts ou mieux exposé vers la fenêtre.
+
+== Début de pousse
+
+Lorsque votre plante aura dépassé le stade de 4/5 feuilles (environs 3 semaines ) vous pourrez lui apporter un terreau plus riche ( et là encore nous travaillons avec biomix, mais "allmix" coupé avec votre terre de jardin à 50%).
+Attention toutefois à votre choix de terreau, et nous ferons un tuto plus tard à ce sujet, car beaucoup sont tous simplement de l'arnaque... 
+De grandes marques autrefois  réputées, et bio, ce sont laissé aller au jeu du "toujours plus de bénéfices" et vous vendent tous simplement du bois ( pour la plupart des terreaux dit "bio", voir de la cendre, quasiment pur...)
+C'est très rapidement décelable par observations simples.
+C'est d'ailleurs après de multiples essais et comparaisons que nous nous sommes arrêté sur les terreaux cités plus haut qui sont sans commune mesures avec le reste. 
+
+Cela dit, le choix de votre terreaux fait, et votre plantoune repiquée, vous devez poursuivre les arrosages. 
+Les premiers jours la terre doit rester assez humide, puis de moins en moins humide. 
+Pour finir dès le 9/10eme jours à ne lui donner à boire que lorsqu'elle a soif et pique légèrement du nez...
+Surveillez bien, car elles sont sensibles aux manques d'eau à cette âge et pourraient mourir rapidement.
+
+== Transplanter
+
+La plante devrait se développer dans les 6 à 9 semaines après avoir semé les graines avant de passer au jardin, donc faite un rapide calcul pour savoir quand faire vos semis en sachant que la transplantation au jardin devra ce faire à température acceptable 
+(15/20°jour/10° nuit pour les minimales)
+
+Il faut toujours bien surveiller vos plantations pour comprendre les éventuels dysfonctionnements avant qu’il ne soit trop tard.
+Vous l’aurez compris, semer des graines n’est pas compliqué mais nécessite de bien connaître les différentes étapes. 
+Rappelez vous que l’essentiel dans le jardinage est d’expérimenter ! 
+Ça ne sera jamais une science exacte, le plus important est d’essayer sans trop faire de calcul et rester à l’écoute des végétaux.
+
+

@@ -34,8 +34,7 @@ link:Agro_notes.adoc[]
 
 == Faire connaissance avec le sol
 Un chapitre spécifique : +
-link:./ReconnaitreTypeDeSol/[vers le répertoire dédié] +
-link:./Agro_Aggradation.adoc[] 
+link:./ReconnaitreTypeDeSol/[vers le répertoire dédié] 
 
 === Un début d'introduction à la biologie du sol
 link:./Agro_GuylaineGoulfier_DevenirJardinierSolVivant.adoc[]
@@ -43,17 +42,25 @@ link:./Agro_GuylaineGoulfier_DevenirJardinierSolVivant.adoc[]
 === Du même tonneau
 link:https://jardinonssolvivant.fr/le-sol-cet-inconnu/[]
 
+=== Aggradation
+link:./Agro_Aggradation.adoc[] 
+link:./Planter/Agro_EngraisVerts.adoc[]
+
 
 == Quelques conseils pour démarrer un potager
 link:./doc/Agro_FermeSteMarthe_ConseilsPotagerDeBalcon.pdf[] +
 link:./doc/Agro_FermeSteMarthe_ConseilsPotagerEnCarres.pdf[] +
 link:./doc/Agro_FermeSteMarthe_ConseilsPotagerJardin.pdf[] 
+link:./Planter/Agro_Tomates.adoc[]
 
 
 == La multiplication
 
 === Bouturer
 link:Agro_Bouturer.adoc[]
+
+=== Semer
+link:./Planter/Agro_SemisGraines.adoc[]
 
 
 == Céréales
