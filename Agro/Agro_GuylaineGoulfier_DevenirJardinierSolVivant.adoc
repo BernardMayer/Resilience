@@ -16,7 +16,7 @@ v1.0, 2020-09-04: First draft
 
 :keywords: Resilience Agro
 :description: Améliorer \
-    le sol...
+    le sol (pour faire pousser des patates)...
     
 ----
 Introduction à la biologie du sol
