@@ -15,8 +15,8 @@ v1.0, 2020-09-04: First draft
 :rdquo: &nbsp;&raquo;
 
 :keywords: Resilience Agro
-:description: Je ne sait pas encore ce \
-    que je vais écrire ici...
+:description: Améliorer \
+    le sol...
     
 ----
 Introduction à la biologie du sol
