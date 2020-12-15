@@ -76,6 +76,7 @@ https://www.blanchardagriculture.com/materiels-espaces-verts/p17647
 == Sol
 * link:https://jardinonssolvivant.fr/le-sol-cet-inconnu/[]
 * link:./ReconnaitreTypeDeSol/Agro_Sol_notes.adoc[]
+* link:http://www.lejardinvivant.fr/2017/05/20/rapport-carbone-azote-explique-nuls/[] de Christophe Gatineau
 
 === Engrais verts
 * link:./Planter/Agro_EngraisVerts.adoc[]
