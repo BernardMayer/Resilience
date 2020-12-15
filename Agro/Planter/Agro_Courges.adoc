@@ -1,0 +1,246 @@
+= Tout sur les courges
+Bernard Mayer
+v1.0, 2020-12-15: First draft
+:source-highlighter: coderay
+:sectnums:
+:toc: preamble
+:toclevels: 4
+:toc-title: Table des matières
+// Permet que la ToC soit numerotee
+:numbered:
+:imagesdir: ./img
+// :imagedir: ./MOS_Modelisation_UserCode-img
+
+:ldquo: &laquo;&nbsp;
+:rdquo: &nbsp;&raquo;
+
+:keywords: Resilience Agro
+:description: Je ne sait pas encore ce \
+    que je vais écrire ici...
+    
+----
+Planter et cultiver les courges.
+Manger une succulente courge musquée mi décembre, courge qui contient des graines... 
+Voilà une occasion à ne pas manquer !
+----
+
+
+// ---------------------------------------------------
+
+== Quelques notes
+
+.Stratification ? 
+Faut-il stratifier les graines des courges que l'on mange (en décembre par ex.) ?
+
+.Mélanger ?
+Si vous mélanger des plants différents, 
+il y a risque d’obtenir des fruits différents de l’attendu 
+(c’est l’hybridation spontanée).
+
+.Demandes
+ * link:https://www.facebook.com/permalink.php?story_fbid=1026962721105178&id=100013743780137[]
+ * et sur le groupe FB link:https://www.facebook.com/groups/MaraichageSolVivant[] (publication pas encore approuvée)
+
+== Choisir
+Il existe d'innombrables variétés de courges. 
+Le choix dépend principalement de vos goûts et de vos envies en cuisine. 
+Votre approche du potager est aussi déterminante, puisque vous pouvez choisir entre variétés anciennes et variétés hybrides.
+
+=== Les courges coureuses et semi-coureuses
+Comme leur nom l'indique, les variétés coureuses ou semi-coureuses produisent des tiges longues, qui peuvent atteindre 4 à 8 m de longueur.
+
+Parmi les variétés d'hiver les plus répandues, on peut citer :
+
+ * Le potiron, originaire d'Amérique du Sud, consommé principalement en gratin ou en soupe ;
+ * Le potimarron, venu du Japon, qui produit des fruits plus petits ;
+ * La courge Butternut, délicieuse en soupe, en purée et en confiture ;
+ * La courge Spaghetti, que l'on cultive pour ses filaments ;
+ * Le potiron, qui se déguste aussi bien en tarte qu'en purée ou en soupe.
+
+Les variétés d'été – courgettes et patissons – offrent aussi un large choix, parmi lesquels la Papaya Pears, une semi-coureuse en forme de poire et à la peau jaune, appréciée pour son parfum et sa chair fondante.
+
+On retiendra également la courge du Siam – ou melon de Malabar – réputée pour ses fruits à la saveur originale, pouvant se conserver plusieurs années. Cette variété est une plante vivace : sous un climat doux, il est donc possible de conserver les plants d'une année à l'autre.
+
+=== Les courges buissonnantes
+Les courges buissonnantes doivent leur nom à leur forme,  évoquant un petit buisson plutôt compact. 
+On parle aussi de courges non coureuses ou sédentaires. 
+Il s'agit principalement de courges d'été. On retiendra tout particulièrement :
+
+ * La courgette ronde de Nice, idéale pour préparer des farcis ;
+ * La courgette verte de Milan – ou Black Beauty – dont on récolte les fruits lorsqu'ils sont jeunes ;
+ * La courgette Gold Rush, une variété précoce à la saveur sucrée ;
+ * Le Patisson Blanc, dont la chair se distingue par une saveur fine, évoquant le fond d'artichaut.
+
+
+== Semer (quand)
+Les courges se sèment en place dès que la terre est bien chaude et qu'il commence à faire doux : 12 à 15°C. 
+La période des semis peu donc varier du mois de mai au mois de juin, en fonction de votre région et du climat.
+
+Vous pouvez effectuer un semis à chaud dès le mois d'avril. 
+Cette option est toutefois à considérer avec prudence dans certaines régions où le froid s'attarde. 
+Lorsque les plants sont bien développés, il faut effectivement les mettre en place immédiatement, et un sol froid ou une gelée tardive nuirait à leur croissance. 
+Mieux vaut alors faire preuve de patience et procéder à un semis en place un peu plus tard !
+
+Les courges apprécient une terre riche, meuble et bien drainée. 
+Il est donc indispensable de travailler la terre, à la fourche bêche ou à la grelinette, et de l'amender. 
+Un apport de compost est idéal. 
+Mélangez-le soigneusement à la terre, en utilisant un croc, quelques semaines avant le semis en place. 
+Si vous optez pour le semi à chaud, prévoyez un apport de compost généreux pour chaque plant.
+
+=== Semis à chaud
+Vous pouvez procéder au semis à chaud en utilisant un bac ou des pots individuels.
+
+Dans des godets remplis de terreau spécial semis, je dépose 3 graines de courges. 
+Je les garde dans la maison, au chaud et j’arrose régulièrement pour que la terre ne sèche jamais complètement. 
+Quand 4 feuilles sont sorties, et que les risques de gelées ne sont plus à craindre dehors (après ma mi-mai), je vais pouvoir les repiquer au potager.
+
+De mi-avril à mi-mai à chaud, dans la maison ou sous abri chauffé
+
+ * Remplissez le fond du bac (ou du pot) de graviers ;
+ * Remplissez de terreau et tassez légèrement ;
+ * Dans un bac, réalisez des trous individuels et placez-y une graine à intervalles réguliers. Dans un pot, comptez 2 à 3 graines par pot. Les graines doivent être disposées à plat.
+ Recouvrez de terreau _(Quelle epaisseur ? *-> 2 / 3 cm*)_ ;
+ * Terminez par un arrosage léger, de préférence par pulvérisation pour ne pas déplacer les graines. 
+ Ou bien par capillarité en remplissant la soucoupe d’eau et en laissant l’eau remonter, au moins un quart d’heure, puis retirer l’excédant d’eau.
+
+Placez dans un lieu chaud (~20°), en ajoutant éventuellement un couvercle en plastique (sur les pots, optez pour la partie inférieure d'une bouteille en plastique, coupée en deux et retournée au-dessus du pot). 
+Mmaintenez le substrat humide mais non détrempé jusqu’à la levée qui prend généralement entre 5 et 8 jours.
+Lorsque les plants ont 2 à 3 feuilles (soit 10 à 15 jours plus tard), repiquez-les.
+
+
+=== Semis en place
+Le semis en place offre un avantage de taille : les plants seront mieux enracinés, et donc plus robustes. 
+Suivant la région, un voile de forçage ou un tunnel peut s'avérer nécessaire.
+
+De mi-mai à mi-juillet en pleine terre.
+
+ * Commencez par préparer les rangées, en comptant 1 m d'espacement;
+ * Semez en poquets de 3 graines, posées à plat ;
+ * Recouvrez de terre fine _( 2 / 3 cm ?  5 / 10 cm ?)_ et tassez légèrement.
+ * Terminez par un arrosage en pluie fine. 
+
+Assurez-vous que la terre soit humide en permanence jusqu'à ce que les graines lèvent. 
+Attendez que les premières feuilles fassent leur apparition, puis procédez à la sélection des plants.
+
+Qu’il s’agisse de mes plants ou de plants que j’ai achetés, j’installe les pieds de courges dans un sol bien enrichi en compost ou en terreau spécial potager. 
+La courge aime les sols très très riche ! 
+Je creuse un trou avec ma petite pelle, j’y dépose mon pied de courge. 
+Je referme, je tasse un peu et j’arrose copieusement.
+
+Si les nuits sont encore un peu fraîches, couvrez d’une grande cloche. 
+Vous limiterez aussi les dégâts faits par les limaces.
+
+=== Où ?
+Séparer d'1 mètre les courges buissonnantes, de 2m les coureuses.
+
+La courge apprécie les emplacements ensoleillés. 
+Elle se cultive aisément en association, en particulier avec le maïs et le haricot. 
+Cette culture conjointe, dite "des trois sœurs", est un héritage des Mayas qui demeure d'actualité. 
+Ces trois plantes compagnes se révèlent complémentaires puis que le maïs tient lieu de tuteur, le haricot fixe l'azote tandis que la courge se charge de limiter la prolifération de mauvaises herbes.
+
+
+
+== Entretien
+
+=== Départ (pincement / taille)
+Pour éviter que les courges n'envahissent le potager comme pour favoriser le développement des fruits, il est indispensable de les tailler. 
+La technique est simple : il suffit d'attendre que le plant ait développé au moins 5 feuilles.
+
+ * Pincez au-dessus de la 2ème feuille ;
+ * Laissez apparaître les branches latérales, et attendez qu'elles comptent au moins 8 feuilles ;
+ * Pincez à nouveau au-dessus de la 5ème
+Pour favoriser la croissance des fruits, il faut ensuite procéder à une sélection des rameaux : éliminez ceux qui ne portent pas de fruits ;
+sélectionnez une dizaine de rameaux portant des fruits maximum : laissez 2 feuilles au-dessus de chaque fruit et pincez. 
+ * Pour obtenir des courges ou des potirons plus volumineux, tenez-vous-en à 3 à 5 fruits. 
+Utilisez un matériel propre et bien aiguisé lors de la taille.
+
+==== Après...
+Les courges démarrent d’un coup quand elles sont suffisamment enracinées, au bout de 15 jours à 3 semaines après le repiquage en terre. Avant, 3 gestes sont essentiels:
+
+ * Binez ou griffez tous les 3 à 4 jours, arrachez les herbes en concurrence.
+ * Arrosez si le temps est sec
+ * Protégez des limaces et des escargots.
+
+=== Arroser
+La courge a besoin d'eau en quantité suffisante, mais sans excès : on l'arrosera donc 2 à 3 fois par semaine sans paillage, 1 à 2 fois avec paillage. 
+Pour ajuster la fréquence d'arrosage, vous pouvez vous fier aux feuilles, qui pointent vers le sol quand la plante est déshydratée. 
+L'oïdium étant son principal ennemi, on veillera toujours à éviter de mouiller le feuillage.
+
+Toutes les courges sont à cultiver à exposition ensoleillée, ce sont des légumes gourmands qui apprécient une terre riche en matières organiques, meuble, profonde et fraîche. 
+En effet, les courges affectionnent tout particulièrement les sols légèrement humides, pensez alors à pailler autour des pieds notamment au plus fort de l’été. 
+Il conviendra aussi de faire un apport en compost généreux de l’ordre de 3 à 4 kg par m2, avant la plantation.
+
+== Récolte et conservation
+Le moment de la récolte varie en fonction des variétés, *avant les premières gelées*.
+
+Les courgettes peuvent se récolter lorsqu'elles sont jeunes et tendres : elles seront ainsi plus succulentes froides. 
+On les consommera fraiches, et elles se conservent quelques jours dans le bac à légumes du réfrigérateur. 
+Elles se prêtent aussi à la congélation.
+
+Les courges d'hivers se récoltent quant à elle 3 mois environ après le semis. 
+Vous pouvez vous fiez au feuillage, qui sèche, 
+pour vous assurer qu'elles sont à maturité. 
+Elles se conserveront plusieurs mois dans un local à l'abri du froid, 
+à condition d'être stockées dans de bonnes conditions :
+
+ * positionnées la queue vers le haut ;
+ * bien séparées les unes des autres ;
+ * à une température comprise entre 14 et 18°C.
+
+== Les emmerdes
+
+=== Pas de fruits...
+Les causes possibles sont multiples :
+La première hypothèse est qu'il s'agit d'un problème de pollinisation. 
+Non fécondée, 
+une fleur femelle va avorter. 
+Et une fleur femelle ne s'ouvre que 3 heures, 
+ce qui laisse relativement peu de temps pour la fécondation. 
+Bien que la fleur soit mellifère, 
+il est toujours bon de semer des fleurs à côté des courges.
+La seconde est hypothèse est de mauvaises conditions : 
+cela peut être le froid, 
+un excès d'eau, 
+une terre pas suffisamment riche en matières organiques.
+
+=== Gastéropodes
+Les jeunes plants de courges constituent un mets de choix pour les escargots et les limaces. 
+Pour les protéger, 
+vous pouvez user de remèdes naturels, 
+en faisant barrage aux gastéropodes. 
+Pour cela, 
+vous pouvez user de tout ce qui rendra leur passage difficile, 
+comme de la coquille d'œuf concassée. 
+Vous pouvez vous en remettre à des prédateurs naturels, 
+en aménageant des zones propices à l'installation des hérissons ou des crapauds.
+
+=== Pucerons
+Apparaissant généralement au printemps, 
+ils envahissent les plants, 
+qu'ils ne tardent pas à affaiblir. 
+Pour vous en débarrasser, vous pouvez utiliser du savon noir ou du purin.
+
+=== Oïdium
+L'oïdium est un champignon qui fait son apparition lorsque les plants sont exposés à la chaleur et à l'humidité. 
+Il apparaît donc principalement au printemps et à l'automne. 
+On évitera donc l'eau stagnante et les projections d'eau sur les feuilles des plants.
+
+Si la maladie apparaît, 
+il est recommandé de supprimer les feuilles touchées et de les brûler. 
+Si cela se révèle insuffisant, 
+optez pour un traitement naturel en mélangeant 25 gr de bicarbonate de soude dans 5 L d'eau. 
+Ajouter 1 cuillère à café de savon noir ou d'huile végétale.  
+Pulvérisez sur les plans (renouveler le traitement en cas de pluie).
+
+=== Pourriture grise
+Cette maladie touche exclusivement les fruits de la courge, 
+et elle apparait généralement en fin de saison. 
+Certaines parties deviennent molles et se couvrent bientôt d'une sorte de moisissure grise. 
+La seule solution est d'éliminer immédiatement les fruits atteints. 
+Pour protéger les fruits sains, placez-les sur une pierre ou une tuile qui les isolera du sol.
+
+== Merci à :
+ * link:https://www.ctendance.fr/jardin/semer-courges/[]
+ * link:https://www.promessedefleurs.com/conseil-plantes-jardin/fichefamille/courges-semer-planter-cultiver-recolter[]
+ * link:https://www.jardipartage.fr/semis-de-courges/[]
+
