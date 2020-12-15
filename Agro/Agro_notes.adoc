@@ -5,7 +5,7 @@ v1.0, 2020-08-31: First draft
 :sectnums:
 :toc: preamble
 :toclevels: 4
-:toc-title: ToC
+:toc-title: Table des matières
 // Permet que la ToC soit numerotee
 :numbered:
 :imagesdir: ./img
@@ -25,12 +25,31 @@ Préambule avant ToC
 
 // ---------------------------------------------------
 
-== Forums jardinage
-* link:https://www.econologie.com/potager-paresseux-jardiner-sans-efforts-avec-foin/[https://www.econologie.com/potager-paresseux-jardiner-sans-efforts-avec-foin/]
-* link:https://www.econologie.com/forums/agriculture/le-potager-du-paresseux-jardiner-plus-que-bio-sans-fatigue-t13846.html[https://www.econologie.com/forums/agriculture/le-potager-du-paresseux-jardiner-plus-que-bio-sans-fatigue-t13846.html]
-* link:https://www.alsagarden.com/blog/le-potager-du-paresseux-de-didier-helmstetter/[https://www.alsagarden.com/blog/le-potager-du-paresseux-de-didier-helmstetter/]
-* link:https://forum.jardiner-malin.fr/[https://forum.jardiner-malin.fr/]
-* link:https://jardinierparesseux.com/[https://jardinierparesseux.com/]
+== Jardinage social
+=== Forums
+* link:https://www.jardinier-amateur.fr/[] ** BMayer bmayer
+* link:https://forum.jardiner-malin.fr/[] ** BMayer @@
+* link:https://www.alsagarden.com/blog/le-potager-du-paresseux-de-didier-helmstetter/[]
+* 
+* link:https://www.econologie.com/potager-paresseux-jardiner-sans-efforts-avec-foin/[]
+* link:https://www.econologie.com/forums/agriculture/le-potager-du-paresseux-jardiner-plus-que-bio-sans-fatigue-t13846.html[]
+* link:https://jardin-et-potager.forumactif.com/[]:-()
+* link:https://www.rustica.fr/forum-jardinage/potager.html[] 
+
+=== Facebook
+* link:https://www.facebook.com/groups/MaraichageSolVivant[]
+* link:https://www.facebook.com/profile.php?id=100013743780137[]
+* link:https://www.facebook.com/JardinierParesseux[]
+
+=== Divers
+* link:https://jardinierparesseux.com/[]
+* L'atelier paysan contact@latelierpaysan.org
+* Domenech jardinonssolvivant.fr  gilles@jardinonssolvivant.fr 
+
+=== Suivi
+* 2020-12-15 link:https://forum.jardiner-malin.fr/sujets/demarrer-un-terrain-abandonne/[] 
+* 2020-12-15 link:https://www.jardinier-amateur.fr/forum-jardinage/demarrer-un-terrain-abandonne,s12205.html[]
+
 
 == Mon idée pour nettoyer Guillac :
 === Méthode poil dans la main
