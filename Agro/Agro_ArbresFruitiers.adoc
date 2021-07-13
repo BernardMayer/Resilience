@@ -5,7 +5,7 @@ v1.0, 2020-08-31: First draft
 :sectnums:
 :toc: preamble
 :toclevels: 4
-:toc-title: ToC
+:toc-title: Table des matières
 // Permet que la ToC soit numerotee
 :numbered:
 :imagesdir: ./img
