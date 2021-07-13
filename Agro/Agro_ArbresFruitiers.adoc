@@ -1,4 +1,4 @@
-= Notes à propos de la chose agro: Et son sous-titre
+= Notes et liens dans l'idée de faire un verger
 Bernard Mayer
 v1.0, 2020-08-31: First draft
 :source-highlighter: coderay
@@ -27,17 +27,17 @@ Préambule avant ToC
 
 == Planter des arbres fruitiers
 Pommes, noisettes, chataignes. +
-Impératif, des variétés rustiques de chez rustiques ; on ne sait pas s'en occuper, on est loin, on n'a pas le temps.
+Impératif, des variétés rustiques de chez rustique ; on ne sait pas s'en occuper, on est loin, on n'a pas le temps, et –SURTOUT– il n'y a pas d'eau pour arroser.
 
 === En Bretagne
 link:https://www.arbrofruit.fr/porte-greffes-jeunes-plants/[] +
 link:http://www.pommiers.com/Pepiniere/pepiniere-morbihan.htm[] +
 link:https://www.pepiniere-belon.fr/arbre-fruitier-morbihan.html[] +
-link:https://www.leaderplant.com/kit-haies-massifs/[] +
+link:https://www.leaderplant.com/kit-haies-massifs/[] et pas mal d'autres trucs +
 link:https://www.lesrameauxgourmands.fr/En_pratique.D.htm[] +
 
 === Poires
-link:https://pepiniere-lechevalier.com/categorie/poirier/[] 10€ +
+link:https://pepiniere-lechevalier.com/categorie/poirier/[] 10€ mais en Normandie +
 link:https://www.conservatoirevegetal.com/?pg=catalogue&pt=1&st=4[] +
 
 === Pommes
