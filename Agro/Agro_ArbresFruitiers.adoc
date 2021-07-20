@@ -1,6 +1,6 @@
 = Notes et liens dans l'idée de faire un verger
 Bernard Mayer
-v1.0, 2020-08-31: First draft
+v1.1, 2021-07-20: Les poiriers
 :source-highlighter: coderay
 :sectnums:
 :toc: preamble
@@ -19,15 +19,39 @@ v1.0, 2020-08-31: First draft
     que je vais écrire ici...
     
 ----
-Préambule avant ToC
+Tables des matières
 ----
 
 
 // ---------------------------------------------------
 
 == Planter des arbres fruitiers
-Pommes, noisettes, chataignes. +
-Impératif, des variétés rustiques de chez rustique ; on ne sait pas s'en occuper, on est loin, on n'a pas le temps, et –SURTOUT– il n'y a pas d'eau pour arroser.
+Pommes, poires, noisettes, chataignes. +
+
+Choisir les variétés d'arbre / porte greffe en pensant à : 
+
+* Polleniser, fertilité.
+* Etaler les récoltes de précoce à tardive.
+* Pas trop haut pour faciliter la cueillette, pas trop bas pour éviter les arbres trop fragiles et pour pouvoir passer dessous avec motoculteur.
+
+
+== Généralités
+Le poirier semble ne pas apprécier d'avoir les racines dans une terre qui peut rester humide assez longtemps, comme Guillac.
+
+link:http://mapassionduverger.fr/recolte-et-transformation/quand-recolter-les-poires/[] +
+link:https://www.aujardin.info/fiches/recolte-conservation-poires.php[] +
+
+=== Calendrier de maturité du verger
+link:https://www.pepinieres-huchet.com/pepiniere/nos-conseils/nos-dossiers-botaniques/609-calendrier-de-maturite-du-verger.html[] le calendrier pomme, poire, cerise, prune, abricot, petits fruits le mieux rencontré à ce jour +
+link:https://www.levergerdelablottiere.fr/pommes-poires-jus/tout-savoir-produits/saisonnalite/[] Affichage en tableau +
+
+=== Récolte et conservation de la poire
+link:https://www.rustica.fr/fruits-et-verger/recolte-conservation-poire,6322.html[] +
+
+=== Fiche d'entretien et de culture du poirier
+link:https://www.rustica.fr/fruits-et-verger/poirier,8794.html[] :-) bien ! + 
+
+== Se fournir (pas que)
 
 === En Bretagne
 link:https://www.arbrofruit.fr/porte-greffes-jeunes-plants/[] +
