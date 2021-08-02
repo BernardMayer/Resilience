@@ -1,0 +1,38 @@
+= Notes a propos des pommes de terre
+Bernard Mayer
+v1.0, 2021-08-02: Les poiriers
+:source-highlighter: coderay
+:sectnums:
+:toc: preamble
+:toclevels: 4
+:toc-title: Table des matières
+// Permet que la ToC soit numerotee
+:numbered:
+:imagesdir: ./img
+// :imagedir: ./MOS_Modelisation_UserCode-img
+
+:ldquo: &laquo;&nbsp;
+:rdquo: &nbsp;&raquo;
+
+:keywords: Resilience Agro
+:description: Je ne sait pas encore ce \
+    que je vais écrire ici...
+    
+----
+Tables des matières
+----
+
+
+// ---------------------------------------------------
+
+== Des patates !
+
+* Fiche de culture et d'entretien des pommes de terre link:https://www.rustica.fr/legumes-et-potager/pomme-terre,8840.html[]
+* Conditions de culture, utilisations culinaires et sensibilité au mildiou d'une trentaine de variétés de pommes de terre link:https://www.rustica.fr/legumes-et-potager/pomme-terre-33-varietes-leur-culture-leurs-utilisations,4199.html[]
+* ! FAO ! La conservation des sols link:http://www.fao.org/potato-2008/fr/pommedeterre/sols.html[]
+* Cultiver des pommes de terre pour ameublir un terrain link:https://jardinage.lemonde.fr/dossier-3908-cultiver-pommes-terre-ameublir-terrain.html[]
+* Planter les pommes de terre sous paillis link:https://www.gammvert.fr/conseils/conseils-de-jardinage/planter-les-pommes-de-terre-sous-paillis[]
+* Pommes de terre : butter ou pailler ? link:https://www.gerbeaud.com/jardin/jardinage_naturel/pommes-de-terre-paillage,1153.html[]
+* Plantation des pommes de terre sous paillis link:https://www.gammvert.fr/conseils/conseils-videos/plantation-des-pommes-de-terre-sous-paillis[]
+* Planter des pommes de terre sous BRF link:https://www.rustica.fr/legumes-et-potager/planter-pommes-terre-sous-brf,9266.html[]
+
