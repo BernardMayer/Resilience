@@ -17,7 +17,7 @@ v1.0, 2020-08-03
 
 * Les_Rougon-Macquart, link:https://fr.wikipedia.org/wiki/Les_Rougon-Macquart[(wikipedia)]
 
-.An example table
+.Ce que je cherchais, merci wikipedia !
 [options="header,footer"]
 |=======================
 | N° | Parution | Titre | Date de l'action | Personnage principal des Rougon-Macquart | Génération | Ordre de lecture recommandé par Zola
@@ -44,8 +44,11 @@ v1.0, 2020-08-03
 |=======================
 Les dates données pour l'action du roman sont approximatives.
 
-Les romans peuvent se lire de manière indépendante, mais, pour une meilleure compréhension de la chronologie, il est préférable de les lire dans l'ordre de parution.
-Cependant, Émile Zola aurait recommandé un ordre de lecture différent<ref name=":0" />. D'une manière générale, ''La Fortune des Rougon'' est le roman d'ouverture qui annonce les principaux personnages de la suite ; et ''Le Docteur Pascal'' en est le bilan final.
+Les romans peuvent se lire de manière indépendante, mais
+, pour une meilleure compréhension de la chronologie
+, il est préférable de les lire dans l'ordre de parution.
+Cependant, Émile Zola aurait recommandé un ordre de lecture différent. 
+D'une manière générale, :ldquo:La Fortune des Rougon:rdquo: est le roman d'ouverture qui annonce les principaux personnages de la suite ; et ''Le Docteur Pascal'' en est le bilan final.
 Certains romans apparaissent comme des « suites » : ''La conquête de Plassans'' débouche sur ''La faute de l'abbé Mouret'' ; ''Pot-Bouille'' se prolonge par ''Au Bonheur des Dames'' ; ''L'Argent'' prolonge ''La Curée'', et ''La Terre'' se prolonge par ''La Débâcle''.
 
 == Copier-Coller depuis les sources
