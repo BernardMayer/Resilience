@@ -17,6 +17,78 @@ v1.0, 2020-08-03
 
 * Les_Rougon-Macquart, link:https://fr.wikipedia.org/wiki/Les_Rougon-Macquart[(wikipedia)]
 
+! N° || Parution || Titre || Date de l'action || Personnage principal 
+des Rougon-Macquart
+! Génération
+!Ordre de lecture 
+recommandé par Zola<ref name=":0">L'ordre de lecture recommandé par Zola peut être trouvé dans le livre d'Ernest Alfred Vizetelly's ''[[iarchive:emilezolanovelis00vizerich|Emile Zola, novelist and reformer: an account of his life & work]]'' (1904), [https://archive.org/stream/emilezolanovelis00vizerich#page/348/mode/2up ppg.348-364].</ref>
+|-
+|style="text-align:right"|  1 ||style="text-align:center"| 1871||  ''[[La Fortune des Rougon]]''  ||style="text-align:center"| 1851 || Pierre Rougon || 1
+|1
+|-
+|style="text-align:right"|  2 ||style="text-align:center"| 1872||  ''[[La Curée]]''  ||style="text-align:center"| 1852 - 1858 || Aristide Rougon-Saccard || 2
+|3
+|-
+|style="text-align:right"|  3 ||style="text-align:center"| 1873||  ''[[Le Ventre de Paris]]''  ||style="text-align:center"| 1857 - 1858 || Lisa Macquart-Quenu || 2
+|11
+|-
+|style="text-align:right"|  4 ||style="text-align:center"| 1874||  ''[[La Conquête de Plassans]]''  ||style="text-align:center"| 1858 - 1864 || François et Marthe Mouret || 2
+|6
+|-
+|style="text-align:right"|  5 ||style="text-align:center"| 1875||  ''[[La Faute de l'abbé Mouret]]''  ||style="text-align:center"| 1866 || Serge Mouret || 3
+|9
+|-
+|style="text-align:right"|  6 ||style="text-align:center"| 1876||  ''[[Son Excellence Eugène Rougon]]''  ||style="text-align:center"| 1858 - 1861 || Eugène Rougon || 2
+|2
+|-
+|style="text-align:right"|  7 ||style="text-align:center"| 1877||  ''[[L'Assommoir]]''  ||style="text-align:center"| 1850 - 1869 || Gervaise Macquart || 2
+|13
+|-
+|style="text-align:right"|  8 ||style="text-align:center"| 1878||  ''[[Une page d'amour]]''  ||style="text-align:center"| 1854 ? || Hélène Mouret-Grandjean || 2
+|10
+|-
+|style="text-align:right"|  9 ||style="text-align:center"| 1880||  ''[[Nana (roman)|Nana]]''  ||style="text-align:center"| 1865 - 1870 || Anna Coupeau || 3
+|17
+|-
+|style="text-align:right"|  10 ||style="text-align:center"| 1882||  ''[[Pot-Bouille]]''  ||style="text-align:center"| 1862 - 1863 || Octave Mouret || 3
+|7
+|-
+|style="text-align:right"|  11 ||style="text-align:center"| 1883||  ''[[Au Bonheur des Dames]]''  ||style="text-align:center"| 1864 - 1869 || Octave Mouret  || 3
+|8
+|-
+|style="text-align:right"|  12 ||style="text-align:center"| 1884||  ''[[La Joie de vivre]]''  ||style="text-align:center"| 1862-1869 || Pauline Quenu || 3
+|12
+|-
+|style="text-align:right"|  13 ||style="text-align:center"| 1885||  ''[[Germinal (roman)|Germinal]]''  ||style="text-align:center"| 1866 ? || [[Étienne Lantier]] || 3
+|16
+|-
+|style="text-align:right"|  14 ||style="text-align:center"| 1886||  ''[[L'Œuvre (Émile Zola)|L'Œuvre]]''  ||style="text-align:center"| 1867 - 1869 || Claude Lantier || 3
+|14
+|-
+|style="text-align:right"|  15 ||style="text-align:center"| 1887||  ''[[La Terre (Zola)|La Terre]]''  ||style="text-align:center"| 1860 - 1869 || Jean Macquart || 2
+|18
+|-
+|style="text-align:right"|  16 ||style="text-align:center"| 1888||  ''[[Le Rêve (roman)|Le Rêve]]''  ||style="text-align:center"| 1860 - 1869 || Angélique Rougon || 3
+|5
+|-
+|style="text-align:right"|  17 ||style="text-align:center"| 1890||  ''[[La Bête humaine]]''  ||style="text-align:center"| 1870 || Jacques Lantier || 3
+|15
+|-
+|style="text-align:right"|  18 ||style="text-align:center"| 1891||  ''[[L'Argent]]''  ||style="text-align:center"| 1864 - 1867 || Aristide Saccard || 2
+|4
+|-
+|style="text-align:right"|  19 ||style="text-align:center"| 1892||  ''[[La Débâcle]]''  ||style="text-align:center"| 1870 - 1871 || Jean Macquart || 2
+|19
+|-
+|style="text-align:right"|  20 ||style="text-align:center"| 1893||  ''[[Le Docteur Pascal]]'' ||style="text-align:center"| 1872 - 1874 ||Pascal Rougon et Clotilde Saccard  || 2
+|20
+|}
+Les dates données pour l'action du roman sont approximatives.
+
+Les romans peuvent se lire de manière indépendante, mais, pour une meilleure compréhension de la chronologie, il est préférable de les lire dans l'ordre de parution.
+Cependant, Émile Zola aurait recommandé un ordre de lecture différent<ref name=":0" />. D'une manière générale, ''La Fortune des Rougon'' est le roman d'ouverture qui annonce les principaux personnages de la suite ; et ''Le Docteur Pascal'' en est le bilan final.
+Certains romans apparaissent comme des « suites » : ''La conquête de Plassans'' débouche sur ''La faute de l'abbé Mouret'' ; ''Pot-Bouille'' se prolonge par ''Au Bonheur des Dames'' ; ''L'Argent'' prolonge ''La Curée'', et ''La Terre'' se prolonge par ''La Débâcle''.
+
 == Copier-Coller depuis les sources
 
 === Les Rougon-macquart par émile Zola
@@ -152,7 +224,7 @@ Il s'agit de :
 * La Faute de l'abbé Mouret, 
 * Une page d'amour, 
 * La Joie de vivre, 
-*L'Œuvre et Le Rêve. 
+* L'Œuvre et Le Rêve. 
 
 Historiquement, ce vaste cycle couvre toute la période du second Empire (1851-1870) 
 et une partie de la IIIe République. 
@@ -234,45 +306,7 @@ Quant au drame, ses considérations sont les suivantes : « Ne pas oublier que l
 Ce qu'il y a de réellement remarquable chez cet écrivain, c’est qu’établissant le plan de l’Histoire des Rougon-Macquart en 1868, il le réalisera sans dévier jusqu’au dernier livre, qui paraîtra en 1893. Pendant vingt-cinq ans, il suivra la route qu’il s’est tracée, ne changeant sa méthode malgré les clameurs hostiles de ses contemporains, et s’efforçant continuellement de faire fort, exceptionnel et dramatique. Une seule fois peut-être cherchera-t-il à plaire au public ; ce sera lorsqu’il écrira Une page d’amour, dont le sujet paisible surprendra bien fort la critique, nullement habituée à voir Zola produire de pareils livres. L’auteur lui-même, au demeurant, en sera presque étonné et mécontent, pensant que la foule ne peut se passionner pour un roman aussi calme.
 
 Certes, ainsi qu’il le prévoyait, le monde se fâcha. Il est assez curieux, maintenant, de lire les critiques qui saluèrent la publication de ses livres. Le mépris, l’injure, la haine, le parti pris politique fournirent le plus souvent les éléments principaux des jugements de ses contemporains. Mais, au fond, Zola devait être, sinon satisfait, tout au moins content. II avait atteint le but désiré, c’est-à-dire écrit une œuvre importante et puis­sante qui le sortait des écrivassiers de son temps, œuvre dont chaque livre, une fois lu, demeure dans la mémoire, non par la finesse ni la délicatesse qu’il comporte, mais par le côté exceptionnel et impressionnant. Et, on pourrait, au sujet de l’Histoire des Rougon-Macquart, rappeler ce que Flaubert écrivit lorsque parut le premier volume de cette célèbre série: « C’est un atroce et beau livre. C’est fort ! Très fort ! »
-
- 
-
  
 
 _Jean Riental, Mercure de France n°882, 15 mars 1935_
-
-
-=== 
-
-link:[]
-
-
-=== 
-
-link:[]
-
-
-=== 
-
-link:[]
-
-
-=== 
-
-link:[]
-
-
-=== 
-
-link:[]
-
-
-=== 
-
-link:[]
-
-
-=== 
-
-link:[]
 
