@@ -1,0 +1,17 @@
+= Resilience / Lire
+Bernard Mayer
+v1.0, 2020-08-03
+:toc-title: ToC
+:toc: preamble
+//:imagesdir: ../img
+
+:ldquo: &laquo;
+:rdquo: &raquo;
+
+:description: Je ne sait pas encore ce \
+    que je vais écrire ici...
+    
+// ---------------------------------------------------
+
+* Emile Zola, link:/home/bernard/repoGit/Resilience/Lire/Zola_LesRougonMacquart.adoc[les Rogon-Maquart]
+
