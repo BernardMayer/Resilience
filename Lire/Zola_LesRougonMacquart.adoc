@@ -20,7 +20,7 @@ v1.0, 2020-08-03
 .An example table
 [options="header,footer"]
 |=======================
-! N° | Parution | Titre | Date de l'action | Personnage principal des Rougon-Macquart ! Génération!Ordre de lecture recommandé par Zola
+| N° | Parution | Titre | Date de l'action | Personnage principal des Rougon-Macquart | Génération | Ordre de lecture recommandé par Zola
 | 1 | 1871|La Fortune des Rougon| 1851 | Pierre Rougon | 1|1
 | 2 | 1872|La Curée| 1852 - 1858 | Aristide Rougon-Saccard | 2|3
 | 3 | 1873|Le Ventre de Paris| 1857 - 1858 | Lisa Macquart-Quenu | 2|11
