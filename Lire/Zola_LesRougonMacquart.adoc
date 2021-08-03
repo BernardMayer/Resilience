@@ -13,5 +13,107 @@ v1.0, 2020-08-03
     
 // ---------------------------------------------------
 
-* Emile Zola, link:./Zola_LesRougonMacquart.adoc[les Rogon-Maquart]
+== Les sources
+
+* Les_Rougon-Macquart, link:https://fr.wikipedia.org/wiki/Les_Rougon-Macquart[(wikipedia)]
+
+== Copier-Coller depuis les sources
+
+=== 
+
+link:https://www.les-rougon-macquart.fr/[]
+
+Plein de trucs dont ce texte introductif 
+
+
+Emile Zola et les Rougon-macquart
+
+Emile Zola est un écrivain français fondateur du naturalisme en littérature
+, dont l'oeuvre principale, les Rougon-Macquart
+, est une vaste fresque en vingt volumes qui raconte l'histoire naturelle et sociale d'une famille sous le second Empire. 
+Vouant une véritable passion à Honoré de Balzac
+, Emile Zola s'inspire de la Comédie Humaine de celui-ci pour construire la fresque romanesque 
+ qui restera l'oeuvre d'une bonne partie de sa vie, Les Rougon-Macquart. 
+ Dès les premières lignes, Emile Zola a une idée très précise de ce qu'il veut faire même si à l'origine
+ , les Rougon-macquart ne devait se tenir que sur dix volumes. 
+ Il va confronter dans ces vingt tomes deux familles qui apportent chacune leur caractère
+ , leur secret, leur hérédité.
+Les Rougon-macquart : la fusion des milieux
+
+Il y a d'abord les Rougon, des commerçants pour la plupart, naviguant dans le monde de la petite bourgeoisie. 
+Puis les Macquart, plus proche de la terre, mais aussi volontiers voleurs et de toutes façons, alcooliques. 
+Ces branches vont fusionner et donner naissance à divers protagonistes qu'Emile Zola mettra dans toutes les situations possibles
+, dans des univers très différents. 
+Afin d'étudier l'influence du milieu occupé par chaque personnage sur la destinée de ce dernier
+, Emile Zola soulèvera un à un divers pans de la société du Second Empire :
+ l'église, le commerce, l'armée, la politique, le monde ouvrier 
+ et l'organisation du travail seront autant de prétextes pour analyser ses personnages 
+ et observer leur comportement quand ceux-ci sont confrontés aux dures réalités d'un dix-neuvième siècle difficile. 
+ Emile Zola se lance donc dans l'écriture des romans qui vont constituer les Rougon-Macquart
+ , à raison de trois à cinq pages quotidiennes. 
+ Même si le romancier connait un succès certain
+ , c'est avec L'Assommoir en 1877 qu'il recueillera ses premiers lauriers mais aussi ses premières haines. 
+ On lui reprochera de décrire le monde ouvrier sous un jour beaucoup trop crû. 
+ Néanmoins, ce septième roman lui amène gloire et fortune. 
+ L'écrivain naturaliste poursuit inlassablement son oeuvre 
+et s'attire de nouveau les foudres des critiques avec le neuvième tome des Rougon-macquart
+, Nana qui parait en 1880. 
+Cette fois-ci, le regard de Zola se porte sur les mondains et surtout leurs vies dissolues incarnées par une jeune fille
+, Anna, dont l'occupation première, la prostitution de luxe
+, lui permettra de connaitre toute la haute-bourgeoisie du Paris du Second Empire. 
+Emile Zola sortira encore deux chefs-d'oeuvre de cette saga
+, le grand classique et très documenté Germinal en 1885 
+et La Bête Humaine en 1890
+, véritable thriller avant l'heure. 
+Il clôt cette série romanesque avec Le Docteur Pascal en 1893, dans un calme presque relatif.
+
+
+_Le naturalisme, dans les lettres, c'est également le retour à la nature et à l'homme
+, l'observation directe, l'anatomie exacte, l'acceptation et la peinture de ce qui est._
+
+Emile Zola (1840 - 1902)
+
+=== 
+
+link:[]
+
+
+=== 
+
+link:[]
+
+
+=== 
+
+link:[]
+
+
+=== 
+
+link:[]
+
+
+=== 
+
+link:[]
+
+
+=== 
+
+link:[]
+
+
+=== 
+
+link:[]
+
+
+=== 
+
+link:[]
+
+
+=== 
+
+link:[]
 
