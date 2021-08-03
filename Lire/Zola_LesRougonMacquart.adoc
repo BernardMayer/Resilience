@@ -48,8 +48,13 @@ Les romans peuvent se lire de manière indépendante, mais
 , pour une meilleure compréhension de la chronologie
 , il est préférable de les lire dans l'ordre de parution.
 Cependant, Émile Zola aurait recommandé un ordre de lecture différent. 
-D'une manière générale, :ldquo:La Fortune des Rougon:rdquo: est le roman d'ouverture qui annonce les principaux personnages de la suite ; et ''Le Docteur Pascal'' en est le bilan final.
-Certains romans apparaissent comme des « suites » : ''La conquête de Plassans'' débouche sur ''La faute de l'abbé Mouret'' ; ''Pot-Bouille'' se prolonge par ''Au Bonheur des Dames'' ; ''L'Argent'' prolonge ''La Curée'', et ''La Terre'' se prolonge par ''La Débâcle''.
+D'une manière générale, {ldquo}La Fortune des Rougon{rdquo} est le roman d'ouverture qui annonce les principaux personnages de la suite ; 
+et {ldquo}Le Docteur Pascal'' en est le bilan final.
+Certains romans apparaissent comme des suites : 
+{ldquo}La conquête de Plassans{rdquo} débouche sur {ldquo}La faute de l'abbé Mouret{rdquo}
+, {ldquo}Pot-Bouille{rdquo} se prolonge par {ldquo}Au Bonheur des Dames{rdquo}
+, {ldquo}L'Argent{rdquo} prolonge {ldquo}La Curée{rdquo}
+, et {ldquo}La Terre{rdquo} se prolonge par {ldquo}La Débâcle{rdquo}.
 
 == Copier-Coller depuis les sources
 
@@ -60,7 +65,7 @@ link:https://www.les-rougon-macquart.fr/[]
 Plein de trucs dont ce texte introductif 
 
 
-Emile Zola et les Rougon-macquart
+.*Emile Zola et les Rougon-macquart*
 
 Emile Zola est un écrivain français fondateur du naturalisme en littérature
 , dont l'oeuvre principale, les Rougon-Macquart
