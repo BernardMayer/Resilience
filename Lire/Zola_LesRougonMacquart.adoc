@@ -17,72 +17,31 @@ v1.0, 2020-08-03
 
 * Les_Rougon-Macquart, link:https://fr.wikipedia.org/wiki/Les_Rougon-Macquart[(wikipedia)]
 
-! N° || Parution || Titre || Date de l'action || Personnage principal 
-des Rougon-Macquart
-! Génération
-!Ordre de lecture 
-recommandé par Zola<ref name=":0">L'ordre de lecture recommandé par Zola peut être trouvé dans le livre d'Ernest Alfred Vizetelly's ''[[iarchive:emilezolanovelis00vizerich|Emile Zola, novelist and reformer: an account of his life & work]]'' (1904), [https://archive.org/stream/emilezolanovelis00vizerich#page/348/mode/2up ppg.348-364].</ref>
-|-
-|style="text-align:right"|  1 ||style="text-align:center"| 1871||  ''[[La Fortune des Rougon]]''  ||style="text-align:center"| 1851 || Pierre Rougon || 1
-|1
-|-
-|style="text-align:right"|  2 ||style="text-align:center"| 1872||  ''[[La Curée]]''  ||style="text-align:center"| 1852 - 1858 || Aristide Rougon-Saccard || 2
-|3
-|-
-|style="text-align:right"|  3 ||style="text-align:center"| 1873||  ''[[Le Ventre de Paris]]''  ||style="text-align:center"| 1857 - 1858 || Lisa Macquart-Quenu || 2
-|11
-|-
-|style="text-align:right"|  4 ||style="text-align:center"| 1874||  ''[[La Conquête de Plassans]]''  ||style="text-align:center"| 1858 - 1864 || François et Marthe Mouret || 2
-|6
-|-
-|style="text-align:right"|  5 ||style="text-align:center"| 1875||  ''[[La Faute de l'abbé Mouret]]''  ||style="text-align:center"| 1866 || Serge Mouret || 3
-|9
-|-
-|style="text-align:right"|  6 ||style="text-align:center"| 1876||  ''[[Son Excellence Eugène Rougon]]''  ||style="text-align:center"| 1858 - 1861 || Eugène Rougon || 2
-|2
-|-
-|style="text-align:right"|  7 ||style="text-align:center"| 1877||  ''[[L'Assommoir]]''  ||style="text-align:center"| 1850 - 1869 || Gervaise Macquart || 2
-|13
-|-
-|style="text-align:right"|  8 ||style="text-align:center"| 1878||  ''[[Une page d'amour]]''  ||style="text-align:center"| 1854 ? || Hélène Mouret-Grandjean || 2
-|10
-|-
-|style="text-align:right"|  9 ||style="text-align:center"| 1880||  ''[[Nana (roman)|Nana]]''  ||style="text-align:center"| 1865 - 1870 || Anna Coupeau || 3
-|17
-|-
-|style="text-align:right"|  10 ||style="text-align:center"| 1882||  ''[[Pot-Bouille]]''  ||style="text-align:center"| 1862 - 1863 || Octave Mouret || 3
-|7
-|-
-|style="text-align:right"|  11 ||style="text-align:center"| 1883||  ''[[Au Bonheur des Dames]]''  ||style="text-align:center"| 1864 - 1869 || Octave Mouret  || 3
-|8
-|-
-|style="text-align:right"|  12 ||style="text-align:center"| 1884||  ''[[La Joie de vivre]]''  ||style="text-align:center"| 1862-1869 || Pauline Quenu || 3
-|12
-|-
-|style="text-align:right"|  13 ||style="text-align:center"| 1885||  ''[[Germinal (roman)|Germinal]]''  ||style="text-align:center"| 1866 ? || [[Étienne Lantier]] || 3
-|16
-|-
-|style="text-align:right"|  14 ||style="text-align:center"| 1886||  ''[[L'Œuvre (Émile Zola)|L'Œuvre]]''  ||style="text-align:center"| 1867 - 1869 || Claude Lantier || 3
-|14
-|-
-|style="text-align:right"|  15 ||style="text-align:center"| 1887||  ''[[La Terre (Zola)|La Terre]]''  ||style="text-align:center"| 1860 - 1869 || Jean Macquart || 2
-|18
-|-
-|style="text-align:right"|  16 ||style="text-align:center"| 1888||  ''[[Le Rêve (roman)|Le Rêve]]''  ||style="text-align:center"| 1860 - 1869 || Angélique Rougon || 3
-|5
-|-
-|style="text-align:right"|  17 ||style="text-align:center"| 1890||  ''[[La Bête humaine]]''  ||style="text-align:center"| 1870 || Jacques Lantier || 3
-|15
-|-
-|style="text-align:right"|  18 ||style="text-align:center"| 1891||  ''[[L'Argent]]''  ||style="text-align:center"| 1864 - 1867 || Aristide Saccard || 2
-|4
-|-
-|style="text-align:right"|  19 ||style="text-align:center"| 1892||  ''[[La Débâcle]]''  ||style="text-align:center"| 1870 - 1871 || Jean Macquart || 2
-|19
-|-
-|style="text-align:right"|  20 ||style="text-align:center"| 1893||  ''[[Le Docteur Pascal]]'' ||style="text-align:center"| 1872 - 1874 ||Pascal Rougon et Clotilde Saccard  || 2
-|20
-|}
+.An example table
+[options="header,footer"]
+|=======================
+! N° | Parution | Titre | Date de l'action | Personnage principal des Rougon-Macquart ! Génération!Ordre de lecture recommandé par Zola
+| 1 | 1871|La Fortune des Rougon| 1851 | Pierre Rougon | 1|1
+| 2 | 1872|La Curée| 1852 - 1858 | Aristide Rougon-Saccard | 2|3
+| 3 | 1873|Le Ventre de Paris| 1857 - 1858 | Lisa Macquart-Quenu | 2|11
+| 4 | 1874|La Conquête de Plassans| 1858 - 1864 | François et Marthe Mouret | 2|6
+| 5 | 1875|La Faute de l'abbé Mouret| 1866 | Serge Mouret | 3|9
+| 6 | 1876|Son Excellence Eugène Rougon| 1858 - 1861 | Eugène Rougon | 2|2
+| 7 | 1877|L'Assommoir| 1850 - 1869 | Gervaise Macquart | 2|13
+| 8 | 1878|Une page d'amour| 1854 ? | Hélène Mouret-Grandjean | 2|10
+| 9 | 1880|Nana (roman)|Nana| 1865 - 1870 | Anna Coupeau | 3|17
+| 10 | 1882|Pot-Bouille| 1862 - 1863 | Octave Mouret | 3|7
+| 11 | 1883|Au Bonheur des Dames| 1864 - 1869 | Octave Mouret  | 3|8
+| 12 | 1884|La Joie de vivre| 1862-1869 | Pauline Quenu | 3|12
+| 13 | 1885|Germinal (roman)|Germinal| 1866 ? | [[Étienne Lantier]] | 3|16
+| 14 | 1886|L'Œuvre (Émile Zola)|L'Œuvre| 1867 - 1869 | Claude Lantier | 3|14
+| 15 | 1887|La Terre (Zola)|La Terre| 1860 - 1869 | Jean Macquart | 2|18
+| 16 | 1888|Le Rêve (roman)|Le Rêve| 1860 - 1869 | Angélique Rougon | 3|5
+| 17 | 1890|La Bête humaine| 1870 | Jacques Lantier | 3|15
+| 18 | 1891|L'Argent| 1864 - 1867 | Aristide Saccard | 2|4
+| 19 | 1892|La Débâcle| 1870 - 1871 | Jean Macquart | 2|19
+| 20 | 1893|Le Docteur Pascal]]'' | 1872 - 1874 |Pascal Rougon et Clotilde Saccard  | 2|20
+|=======================
 Les dates données pour l'action du roman sont approximatives.
 
 Les romans peuvent se lire de manière indépendante, mais, pour une meilleure compréhension de la chronologie, il est préférable de les lire dans l'ordre de parution.
