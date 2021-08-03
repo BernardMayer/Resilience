@@ -1,7 +1,7 @@
 = Resilience / Lire
 Bernard Mayer
 v1.0, 2020-08-03
-:toc-title: ToC
+:toc-title: Table des matières
 :toc: preamble
 //:imagesdir: ../img
 
@@ -13,5 +13,5 @@ v1.0, 2020-08-03
     
 // ---------------------------------------------------
 
-* Emile Zola, link:/home/bernard/repoGit/Resilience/Lire/Zola_LesRougonMacquart.adoc[les Rogon-Maquart]
+* Emile Zola, link:Zola_LesRougonMacquart.adoc[les Rogon-Maquart]
 
