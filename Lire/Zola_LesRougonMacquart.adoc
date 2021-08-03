@@ -1,4 +1,4 @@
-= Resilience / Lire / Zola :: Les Rogon-Macquart
+= Zola :: Les Rogon-Macquart
 Bernard Mayer
 v1.0, 2020-08-03
 :toc-title: Table des matières
