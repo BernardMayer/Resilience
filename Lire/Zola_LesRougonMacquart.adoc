@@ -13,5 +13,5 @@ v1.0, 2020-08-03
     
 // ---------------------------------------------------
 
-* Emile Zola, link:/home/bernard/repoGit/Resilience/Lire/Zola_LesRougonMacquart.adoc[les Rogon-Maquart]
+* Emile Zola, link:Zola_LesRougonMacquart.adoc[les Rogon-Maquart]
 
