@@ -29,7 +29,7 @@ v1.0, 2020-08-03
 | 6 | 1876|Son Excellence Eugène Rougon| 1858 - 1861 | Eugène Rougon | 2|2
 | 7 | 1877|L'Assommoir| 1850 - 1869 | Gervaise Macquart | 2|13
 | 8 | 1878|Une page d'amour| 1854 ? | Hélène Mouret-Grandjean | 2|10
-| 9 | 1880|Nana (roman)|Nana| 1865 - 1870 | Anna Coupeau | 3|17
+| 9 | 1880|Nana| 1865 - 1870 | Anna Coupeau | 3|17
 | 10 | 1882|Pot-Bouille| 1862 - 1863 | Octave Mouret | 3|7
 | 11 | 1883|Au Bonheur des Dames| 1864 - 1869 | Octave Mouret  | 3|8
 | 12 | 1884|La Joie de vivre| 1862-1869 | Pauline Quenu | 3|12
