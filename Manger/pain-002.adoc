@@ -1,0 +1,44 @@
+= Notes à propos du pain: Et son sous-titre
+Bernard Mayer
+v1.0, 2020-08-31: First draft
+:source-highlighter: coderay
+:sectnums:
+:toc: preamble
+:toclevels: 4
+:toc-title: ToC
+// Permet que la ToC soit numerotee
+:numbered:
+:imagesdir: ./img
+// :imagedir: ./MOS_Modelisation_UserCode-img
+
+:ldquo: &laquo;&nbsp;
+:rdquo: &nbsp;&raquo;
+
+:keywords: Resilience Manger pain
+:description: Je ne sait pas encore ce \
+    que je vais écrire ici...
+    
+----
+Préambule avant ToC
+----
+
+
+// ---------------------------------------------------
+
+== Vidéo pain au levain, blés anciens, Graines de Noé, Bernard Ronot
+https://www.facebook.com/groups/562905920806655/?post_id=1018484611915448
+
+
+== Recette trouvée sur HeO
+link:https://www.hisse-et-oh.com/tavern/les-bonnes-boulangeries#6154379d39819f0da694a4fa[]
+
+Juste avant grosse astuce sur la levure...
+
+Tout d’abord le choix des produits. En ce qui me concerne c’est TOUT Bio, Farines moulues sur meule de pierre, levure fraiche Bio (Biocoop), fleur de sel et eau de source.
+Les ingrédients : 500 gr de T80 (bise), 125 gr de seigle T130, 455 gr d’eau, 8 gr de levure et 8 gr de sel.
+Dans 2 petits bols séparés, mettre d’un côté la levure et de l’autre le sel, mouillez avec très peu d’eau pour dissoudre le tout avant utilisation et réservez. Dans un robot pétrin ou à la main, mélangez lentement, jusqu’à une pâte grossièrement homogène, la farine et le reste d’eau, laissez reposez 1h (autolyse). Ensuite, incorporez la levure puis ensuite le sel, pétrir entre chaque (mais séparément surtout). Temps de pétrissage total (autolyse + finition) 10mn environ.
+Réservez la pâte dans un récipient hermétique à température ambiante durant 2h puis mettre au réfrigérateur pour une fermentation lente, ça développe les gouts. Personnellement je pétris le soir (18/19h environ) et laisse toute la nuit au frigo. Le lendemain matin (8/9h environ), je ressors mon récipient et le laisse à température ambiante 1h. Je mets mon four à chauffer en convection naturelle (haut et bas sans chaleur tournante surtout) à 250°. J’ai une pierre de cuisson pour le pain, ça se trouve sur le Net, épaisseur recommandée 2 cm mini si possible. La pierre reste dans le four et pré chauffe en même temps. Sur mon plan de travail fariné, je dépose ma pâte à laquelle je fais des « rabats ». Explication : je l’étire légèrement sur mon plan de travail et ramène les bords (droite et gauche) vers le centre en les superposant et sans tasser. Fais un quart de tour et recommence. Cela donne de la force à la pâte (plus élastique). Si besoin faire une troisième fois, c’est vous qui voyez en fonction du « touché » de la pâte. Puis formez une boule, toujours sans tasser la pâte et la déposer dans un récipient creux type saladier mais idéalement dans un banneton en osier avec toile de lin (ça se trouve facilement sur le NET). La « clé » vers le haut ou au-dessus si vous préférez (c’est la face où vos rabats se rejoignent). Recouvrir d’un torchon propre et laissez reposer encore 1h sans courant d’air et à T° supérieure à 20/22° (perso je ferme la porte de la cuisine et mets un peu de chauffage en fonction de la saison). Votre four est normalement à température (250°). Retournez votre pâton (boule de pâte), clé en dessous donc cette fois-ci, sur une planche fine préalablement farinée (ça permet de faire glisser la pâte au moment de l’enfournement) ou pour ceux qui veulent s’équiper sur une petite pelle à pain/pizza. Grignez sur ½ cm de profondeur (tranchez avec un lame très affutée, perso c’est lame de rasoir) la pâte sur le dessus, ça permet de pousser encore durant le début de cuisson, puis enfournez rapidement pour ne pas trop faire redescendre la T° du four. Ne pas oublier de verser dans le « lèche frites » du four, avant de refermer, un grand verre d’eau (vapeur qui va servir à dorer le pain). Et ne plus rouvrir le four avant la fin! Cuisson 15 mn à 250° puis 40 mn à 220°. Laisser ensuite reposer votre pain 1h avant de le déguster, c’est pour l’évacuation du gaz de fermentation. N’oubliez pas la petite photo pour le partage et régalez-vous mais si tout c’est bien passé vous ne le conserverez pas une semaine… il sera mangé avant !!
+Pour la suite avec un peu d’expérience et pour les plus mordus, passez au levain naturel, c’est Top ! 
+
+
+
