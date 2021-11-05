@@ -1,0 +1,70 @@
+= NTutos de Perceval
+Bernard Mayer
+v1.1, 2021-07-20: Tutos Perceval
+:source-highlighter: coderay
+:sectnums:
+:toc: preamble
+:toclevels: 4
+:toc-title: Table des matières
+// Permet que la ToC soit numerotee
+:numbered:
+:imagesdir: ./img
+// :imagedir: ./MOS_Modelisation_UserCode-img
+
+:ldquo: &laquo;&nbsp;
+:rdquo: &nbsp;&raquo;
+
+:keywords: Resilience Agro
+:description: Je ne sait pas encore ce \
+    que je vais écrire ici...
+    
+----
+Tables des matières
+----
+
+
+// ---------------------------------------------------
+
+link:https://www.facebook.com/permalink.php?story_fbid=1220163921785056&id=100013743780137[]
+
+Perceval Le Paysan Gaulois, 17 novembre 2020
+
+Bonjour
+
+Voici un ensemble de TUTOS d'accès facile pour débutants ou amateurs...
+
+Ce sont nos observations, connaissances, expériences, expliqué du mieux que nous pouvons ...
+Encore une fois, nous n'affirmons rien puisque nous ne connaissons finalement rien, ou pas grand chose, donc oubliez les long débats contradictoires, ceci n'est qu'un partage gratuit afin d'aider certains et non pas une indication de la seule route à suivre, nous n'avons pas cette prétention, et il y a 1000 chemins ...
+
+Bien à vous, Perciflette !
+
+- tuto conseils pour aborder la permaculture  https://www.facebook.com/permalink.php?story_fbid=999855213815929&id=100013743780137
+- tuto analyse de la terre https://www.facebook.com/permalink.php?story_fbid=983319518802832&id=100013743780137
+- calendrier des semis  https://www.facebook.com/permalink.php?story_fbid=988913071576810&id=100013743780137
+- tuto semis https://www.facebook.com/permalink.php?story_fbid=990184098116374&id=100013743780137
+- tuto tomate https://www.facebook.com/permalink.php?story_fbid=972608296540621&id=100013743780137
+- résultat expérience enlever les gourmands ou non : https://www.facebook.com/permalink.php?story_fbid=1188351734966275&id=100013743780137
+- tuto engrais vert https://www.facebook.com/permalink.php?story_fbid=984110868723697&id=100013743780137
+- tuto quels légumes planter en hiver https://www.facebook.com/permalink.php?story_fbid=999800410488076&id=100013743780137
+- tuto paillage https://www.facebook.com/permalink.php?story_fbid=1003082893493161&id=100013743780137
+- tuto fumier https://www.facebook.com/permalink.php?story_fbid=1004004160067701&id=100013743780137
+- planche explicative courge https://www.facebook.com/permalink.php?story_fbid=982602002207917&id=100013743780137
+- Bon à savoir : hybridations possibles des cucurbitacées : https://www.facebook.com/permalink.php?story_fbid=1208974166237365&id=100013743780137
+- tuto éclairage semis :  https://www.facebook.com/permalink.php?story_fbid=1082090755592374&id=100013743780137
+- Fiche info tomates : https://www.facebook.com/permalink.php?story_fbid=1166522230482559&id=100013743780137
+- bon à savoir : les éléments minéraux : https://www.facebook.com/permalink.php?story_fbid=1003951936739590&id=100013743780137
+- tuto : traitement mildiou oïdium préventif et curatif ( dans certaines mesures) : https://www.facebook.com/permalink.php?story_fbid=1168672136934235&id=100013743780137
+
+- tutovidéo : traitement anti punaises : https://www.youtube.com/watch?v=Ji_tGJFE5Os
+- tutovidéo : expérience comparative terreaux : https://www.youtube.com/watch?v=V2Wtdoi-Jk4
+- tutovidéo : expérience engrais liquide organique BIO TECHNOLOGY sur semis tomates
+- https://www.youtube.com/watch?v=byHcJ7_4U9M
+- tutovidéo : expérience engrais liquide organique BIO TECHNOLOGY sur salades https://www.youtube.com/watch?v=07QS_V3rtcg
+- tutovidéo : comment sélectionner et récupérer ces graines :
+https://www.youtube.com/watch?v=BtVwf8yIc3s
+
+- lien des descriptifs tomates : https://www.facebook.com/permalink.php?story_fbid=1175393399595442&id=100013743780137
+- lien des descriptifs légumes : https://www.facebook.com/permalink.php?story_fbid=1190572904744158&id=100013743780137
+
+Partagez, sauvegardez, suivez nous, demandez en amis, c'est un plaisir.
+
