@@ -1,0 +1,97 @@
+= Notes au sujet de la construction immobilière
+Bernard Mayer
+v0.1.0, 2022-03-15: First draft
+:source-highlighter: coderay
+:sectnums:
+:toc: preamble
+:toclevels: 4
+:toc-title: Table des matières
+:numbered:
+//:imagesdir: ./img
+// :imagedir: ./MOS_Modelisation_UserCode-img
+
+:ldquo: &laquo;&nbsp;
+:rdquo: &nbsp;&raquo;
+
+:keywords: Resilience Abri
+:description: Je ne sait pas encore ce \
+    que je vais écrire ici...
+    
+----
+Ce document est aujourd'hui un bloc-notes qui compile les des informations 
+en rapport avec la construction immobilière. +
+Au fur et à mesure de son alimentation, il faudra scinder ce document en documents annexes, liés à ce document :ldquo: parent :rdquo: 
+
+----
+
+// ---------------------------------------------------
+
+Sommaire --> link:Abri.adoc[]
+
+== Sources documentaires
+
+=== Revue La maison écologique
+link:http://lamaisonecologique.com[] +
+Abonné 67861
+
+==== Numéros spéciaux : 
+
+* Tous savoir sur l'isolation écologique
+
+==== Numéros hors série :
+
+* 16 : La rénovation performante et écologique
+
+* 14 : Construire en bois
+
+* 11 : Le bioclimatisme
+
+==== Numéros :
+
+* 127 : février / mars 2022
+
+* 126 : 
+
+
+
+=== Revue Habitat naturel
+link:http://habitatnaturel.fr[]
+
+==== Numéros spéciaux : 
+
+==== Numéros hors série :
+
+==== Numéros :
+
+* 88 - décembre 2021 / février 2022
+
+
+
+// ---------------------------------------------------
+
+
+Une débroussailleuse à roues genre +
+image:debroussailleuses_rechercheLBC.png[résultat d'une recherche de débroussailleuse sur LBC, pour 44 et 56] +
+qui retourne quelque chose comme : +
+image:debroussailleuses_noName.png[Un engin sans marque] +
+ou mieux : +
+image:debroussailleuses_HusqvarnaDB51.png[Husqvarna DB51] +
+ou Staub, ou Viking, ou Honda ...
+
+
+
+Toujours autour de Guillac ;
+
+- Josselin.
+* Josselin motoculture (*meilleur choix ?*) +
+Rue de l’Ecusson ZC Le Pont Mareuc 02 97 22 28 02 +
+(35€/j loc debroussailleuse !) +
+https://josselin-motoculture.com/locations-2/location-de-materiel-de-motoculture/
+- Ploermel
+* Voir au dessus Plo-LocMat +
+(Moins cher que Josselin pour la machine à fléaux ?)
+* Bricomarché Rue Chateaubriant  02 97 93 63 25
+* Espace Emeraude Rue Edouard Branly Parc D'Activités Du Bois Vert 02 97 74 10 54
+* Blanchard agriculture ZA du Bois Vert 02 97 74 27 18 +
+https://www.blanchardagriculture.com/materiels-espaces-verts/p17647
+
