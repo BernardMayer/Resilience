@@ -25,4 +25,13 @@ Au fur et à mesure de son alimentation, il faudra extraire des parties de ce do
 
 // ---------------------------------------------------
 
-include::Abri.doc[]
+== Les notes
+
+link:Abri_Notes.adoc[]
+
+== Les maisons que l'on a remarquées
+
+* 1 : Cap Ferret
+
+* 2 : Roaliguen
+
