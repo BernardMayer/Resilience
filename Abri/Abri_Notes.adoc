@@ -1,6 +1,6 @@
 = Notes au sujet de la construction immobilière
 Bernard Mayer
-v0.1.0, 2022-03-15: First draft
+v0.1.8, 2022-03-15: First draft
 :source-highlighter: coderay
 :sectnums:
 :toc: preamble
@@ -67,8 +67,43 @@ link:http://habitatnaturel.fr[]
 
 
 
-// ---------------------------------------------------
+== MOE / Constructeurs
 
+* link:maisons-akabois.com[] (Pub reçue par FB)
+
+* ABC Autrement Bois Construction + 
+link:www.autrementboisconstruction.fr[] + 
+Maison vue à Roaliguen, 46 rue pont-neuf +
+Artisan maison passive certifiée +
+ZA de l'ardoise 56220 Limerzel +
+02 97 68 81 28 +
+06 29 93 72 19 +
+SCOP :-) +
+
+* Ferreira constructions (Vu lors d'une ballade) +
+link:www.ferreira-constructions.fr[] +
+Maçonnerie générale + taille et pose de pierres +
+56350 Béganne +
+02 99 91 29 98 +
+06 61 24 79 98 +
+
+== Architectes
+
+* BimBamBoum +
+Maison vue à Roaliguen, 46 rue pont-neuf +
+9 rue PArrot 75590 Paris +
+06 89 80 53 81 +
+
+* Cabanes Bartherotte & Frères (Vu lors d'une ballade) +
+link:www.lescabanes.com[] + 
+contact@lescabanes.com +
+1 route du grand Crohot 33950 Lège Cap-Ferret +
+05 56 60 12 04 +
+
+
+
+// ---------------------------------------------------
+== Ne pas tenir compte de ce qui suit...
 
 Une débroussailleuse à roues genre +
 image:debroussailleuses_rechercheLBC.png[résultat d'une recherche de débroussailleuse sur LBC, pour 44 et 56] +
