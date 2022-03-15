@@ -1,28 +1,3 @@
-= Au sujet de la construction immobilière et autres sujets vaguement apparentés
-Bernard Mayer
-v0.1.0, 2022-03-15: First draft
-:source-highlighter: coderay
-:sectnums:
-:toc: preamble
-:toclevels: 4
-:toc-title: Table des matières
-:numbered:
-//:imagesdir: ./img
-// :imagedir: ./MOS_Modelisation_UserCode-img
 
-:ldquo: &laquo;&nbsp;
-:rdquo: &nbsp;&raquo;
 
-:keywords: Resilience Abri
-:description: Je ne sait pas encore ce \
-    que je vais écrire ici...
-    
-----
-Ce document se veut un guide vers les différentes parties du sujet. 
-Au fur et à mesure de son alimentation, il faudra extraire des parties de ce document en documents annexes, liés à ce document :ldquo: parent :rdquo: par des liens.
-
-----
-
-// ---------------------------------------------------
-
-include::Abri.doc[]
+include::Abri.adoc[]
