@@ -1,14 +1,10 @@
 
 = Resilience
-= Au sujet de la construction immobilière et autres sujets vaguement apparentés
-Bernard Mayer
 Bernard Mayer
 v1.0, 2020-08-25
-v0.1.0, 2022-03-15: First draft
 :toc-title: ToC
 :source-highlighter: coderay
 :sectnums:
-:toc: preamble
 :toc: preamble
 //:imagesdir: ../img
 :toclevels: 4
@@ -26,8 +22,6 @@ v0.1.0, 2022-03-15: First draft
 
 :keywords: Resilience Abri
 :description: Je ne sait pas encore ce \
-:description: Je ne sait pas encore ce \
-    que je vais écrire ici...
     que je vais écrire ici...
 
 
@@ -35,7 +29,6 @@ v0.1.0, 2022-03-15: First draft
 ----
 Ne dépendre de personne... +
 Ni dieu ni maître ? Peut-être... Vous en pensez ce que vous voulez, vous êtes (peut-être) libre
-----
 ----
 Ce document se veut un guide vers les différentes parties du sujet. 
 Au fur et à mesure de son alimentation, il faudra extraire des parties de ce document en documents annexes, liés à ce document :ldquo: parent :rdquo: par des liens.
